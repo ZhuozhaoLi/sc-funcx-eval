@@ -7,7 +7,7 @@ import sqlite3
 
 N = 2000
 
-db_file = "lambda_funcx2.db"
+db_file = "lambda_funcx3.db"
 
 # conn = create_connection(db_file)
 
@@ -70,7 +70,9 @@ def google_test(num_runs):
 
     print("Priming...")
     data = {"name":"Keyboard Cat"}
-    r = requests.post("https://us-central1-noble-cubist-236315.cloudfunctions.net/function-1", data=data)
+    r = requests.post("https://us-east1-noble-cubist-236315.cloudfunctions.net/function-2", data=data)
+
+    # r = requests.post("https://us-central1-noble-cubist-236315.cloudfunctions.net/function-1", data=data)
     print(r.text)
     print("Priming completed! Running now! ")
 
@@ -78,7 +80,10 @@ def google_test(num_runs):
     for i in range(1, num_runs):
         # time.sleep(.5)
         time0 = time.time()
-        r = requests.post("https://us-central1-noble-cubist-236315.cloudfunctions.net/function-1", data=data)
+
+        r = requests.post("https://us-east1-noble-cubist-236315.cloudfunctions.net/function-2", data=data)
+
+        # r = requests.post("https://us-central1-noble-cubist-236315.cloudfunctions.net/function-1", data=data)
         # print(r.text)
         time1 = time.time()
 
