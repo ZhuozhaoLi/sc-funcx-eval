@@ -10,6 +10,7 @@ from parsl.app.app import python_app  # , bash_app
 from parsl.providers import LocalProvider
 from parsl.channels import LocalChannel
 from parsl.launchers import SingleNodeLauncher
+from parsl.addresses import *
 import gc
 
 from parsl.config import Config
@@ -19,16 +20,19 @@ n_managers = 2
 config = Config(
     executors=[
         HighThroughputExecutor(
+            address=address_by_interface('bond0.144'),
             poll_period=1,
             heartbeat_period=1,
             heartbeat_threshold=2,
             label="htex_local",
+            worker_mode="no_container",
+            worker_ports=(53531, 53532),
             # worker_debug=True,
             cores_per_worker=1,
-            max_workers=2,
+            max_workers=4,
             provider=LocalProvider(
                 channel=LocalChannel(),
-                init_blocks=n_managers,
+                init_blocks=0,
                 max_blocks=1,
                 # tasks_per_node=1,  # For HighThroughputExecutor, this option should in most cases be 1
                 launcher=SingleNodeLauncher(),
