@@ -5,9 +5,9 @@ import requests
 import sqlite3
 
 
-N = 1000
+N = 2000
 
-db_file = "lambda_funcx.db"
+db_file = "lambda_funcx2.db"
 
 # conn = create_connection(db_file)
 
@@ -24,7 +24,7 @@ def lambda_test(num_runs):
 
     print("Priming...")
     invoke_response = client.invoke(
-        FunctionName="TylerFirstFunction",
+        FunctionName="tylerfunc2",
         InvocationType="RequestResponse"
     )
 
@@ -37,7 +37,7 @@ def lambda_test(num_runs):
         time0 = time.time()
 
         invoke_response = client.invoke(
-            FunctionName="TylerFirstFunction",
+            FunctionName="tylerfunc2",
             InvocationType="RequestResponse"
         )
 
