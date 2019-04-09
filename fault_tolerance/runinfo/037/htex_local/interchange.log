@@ -1,0 +1,572 @@
+2019-04-08 16:22:50.840 interchange:133 [INFO]  Attempting connection to client at 127.0.0.1 on ports: 55554,55169,55714
+2019-04-08 16:22:50.843 interchange:146 [INFO]  Connected to client
+2019-04-08 16:22:50.864 interchange:174 [INFO]  Bound to ports 54258,54322 for incoming worker connections
+2019-04-08 16:22:50.865 interchange:188 [INFO]  Platform info: {'parsl_v': '0.7.2', 'python_v': '3.6.8', 'os': 'Linux', 'hname': 'borgmachine2', 'dir': '/home/yadu/src/sc-funcx-eval/fault_tolerance'}
+2019-04-08 16:22:50.865 interchange:299 [INFO]  Incoming ports bound
+2019-04-08 16:22:50.866 interchange:223 [INFO]  [TASK_PULL_THREAD] Starting
+2019-04-08 16:22:51.756 interchange:354 [INFO]  [MAIN] Adding manager: b'83cbc49b5ae2' to ready queue
+2019-04-08 16:22:51.756 interchange:356 [INFO]  [MAIN] Registration info for manager b'83cbc49b5ae2': {'parsl_v': '0.7.2', 'python_v': '3.6.8', 'os': 'Linux', 'hname': 'borgmachine2', 'dir': '/home/yadu/src/sc-funcx-eval/fault_tolerance'}
+2019-04-08 16:22:51.794 interchange:354 [INFO]  [MAIN] Adding manager: b'063694a932a0' to ready queue
+2019-04-08 16:22:51.794 interchange:356 [INFO]  [MAIN] Registration info for manager b'063694a932a0': {'parsl_v': '0.7.2', 'python_v': '3.6.8', 'os': 'Linux', 'hname': 'borgmachine2', 'dir': '/home/yadu/src/sc-funcx-eval/fault_tolerance'}
+2019-04-08 16:22:53.042 interchange:418 [INFO]  [MAIN] Sent tasks: [1] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.042 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:53.044 interchange:418 [INFO]  [MAIN] Sent tasks: [2] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.045 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:53.047 interchange:418 [INFO]  [MAIN] Sent tasks: [3] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.048 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:53.056 interchange:418 [INFO]  [MAIN] Sent tasks: [4] to manager b'063694a932a0'
+2019-04-08 16:22:53.056 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:53.059 interchange:418 [INFO]  [MAIN] Sent tasks: [5] to manager b'063694a932a0'
+2019-04-08 16:22:53.059 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:53.061 interchange:418 [INFO]  [MAIN] Sent tasks: [6] to manager b'063694a932a0'
+2019-04-08 16:22:53.061 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:53.063 interchange:418 [INFO]  [MAIN] Sent tasks: [7] to manager b'063694a932a0'
+2019-04-08 16:22:53.063 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:53.067 interchange:418 [INFO]  [MAIN] Sent tasks: [8] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.067 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:53.217 interchange:418 [INFO]  [MAIN] Sent tasks: [9] to manager b'063694a932a0'
+2019-04-08 16:22:53.218 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:53.219 interchange:418 [INFO]  [MAIN] Sent tasks: [10] to manager b'063694a932a0'
+2019-04-08 16:22:53.219 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:53.222 interchange:418 [INFO]  [MAIN] Sent tasks: [11] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.222 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:53.224 interchange:418 [INFO]  [MAIN] Sent tasks: [12] to manager b'063694a932a0'
+2019-04-08 16:22:53.224 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:53.226 interchange:418 [INFO]  [MAIN] Sent tasks: [13] to manager b'063694a932a0'
+2019-04-08 16:22:53.226 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:53.228 interchange:418 [INFO]  [MAIN] Sent tasks: [14] to manager b'063694a932a0'
+2019-04-08 16:22:53.229 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:53.231 interchange:418 [INFO]  [MAIN] Sent tasks: [15] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.231 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:53.233 interchange:418 [INFO]  [MAIN] Sent tasks: [16] to manager b'063694a932a0'
+2019-04-08 16:22:53.233 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:53.385 interchange:418 [INFO]  [MAIN] Sent tasks: [17] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.385 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:53.388 interchange:418 [INFO]  [MAIN] Sent tasks: [18] to manager b'063694a932a0'
+2019-04-08 16:22:53.388 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:53.389 interchange:418 [INFO]  [MAIN] Sent tasks: [19] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.389 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:53.392 interchange:418 [INFO]  [MAIN] Sent tasks: [20] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.392 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:53.394 interchange:418 [INFO]  [MAIN] Sent tasks: [21] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.395 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:53.396 interchange:418 [INFO]  [MAIN] Sent tasks: [22] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.397 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:53.399 interchange:418 [INFO]  [MAIN] Sent tasks: [23] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.399 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:53.401 interchange:418 [INFO]  [MAIN] Sent tasks: [24] to manager b'063694a932a0'
+2019-04-08 16:22:53.401 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:53.554 interchange:418 [INFO]  [MAIN] Sent tasks: [25] to manager b'063694a932a0'
+2019-04-08 16:22:53.554 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:53.555 interchange:418 [INFO]  [MAIN] Sent tasks: [26] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.555 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:53.557 interchange:418 [INFO]  [MAIN] Sent tasks: [27] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.558 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:53.560 interchange:418 [INFO]  [MAIN] Sent tasks: [28] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.560 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:53.562 interchange:418 [INFO]  [MAIN] Sent tasks: [29] to manager b'063694a932a0'
+2019-04-08 16:22:53.563 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:53.566 interchange:418 [INFO]  [MAIN] Sent tasks: [30] to manager b'063694a932a0'
+2019-04-08 16:22:53.566 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:53.569 interchange:418 [INFO]  [MAIN] Sent tasks: [31] to manager b'063694a932a0'
+2019-04-08 16:22:53.570 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:53.572 interchange:418 [INFO]  [MAIN] Sent tasks: [32] to manager b'063694a932a0'
+2019-04-08 16:22:53.572 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:53.722 interchange:418 [INFO]  [MAIN] Sent tasks: [33] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.722 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:53.724 interchange:418 [INFO]  [MAIN] Sent tasks: [34] to manager b'063694a932a0'
+2019-04-08 16:22:53.724 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:53.726 interchange:418 [INFO]  [MAIN] Sent tasks: [35] to manager b'063694a932a0'
+2019-04-08 16:22:53.727 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:53.729 interchange:418 [INFO]  [MAIN] Sent tasks: [36] to manager b'063694a932a0'
+2019-04-08 16:22:53.729 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:53.731 interchange:418 [INFO]  [MAIN] Sent tasks: [37] to manager b'063694a932a0'
+2019-04-08 16:22:53.731 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:53.733 interchange:418 [INFO]  [MAIN] Sent tasks: [38] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.733 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:53.735 interchange:418 [INFO]  [MAIN] Sent tasks: [39] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.735 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:53.737 interchange:418 [INFO]  [MAIN] Sent tasks: [40] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.738 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:53.891 interchange:418 [INFO]  [MAIN] Sent tasks: [41] to manager b'063694a932a0'
+2019-04-08 16:22:53.891 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:53.895 interchange:418 [INFO]  [MAIN] Sent tasks: [42, 43] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.896 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:53.899 interchange:418 [INFO]  [MAIN] Sent tasks: [44, 45] to manager b'063694a932a0'
+2019-04-08 16:22:53.900 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:53.904 interchange:418 [INFO]  [MAIN] Sent tasks: [46] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.905 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:53.907 interchange:418 [INFO]  [MAIN] Sent tasks: [47] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.907 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:53.909 interchange:418 [INFO]  [MAIN] Sent tasks: [48] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:53.909 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:54.062 interchange:418 [INFO]  [MAIN] Sent tasks: [49] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.063 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:54.065 interchange:418 [INFO]  [MAIN] Sent tasks: [50] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.065 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:54.068 interchange:418 [INFO]  [MAIN] Sent tasks: [51] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.068 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:54.070 interchange:418 [INFO]  [MAIN] Sent tasks: [52] to manager b'063694a932a0'
+2019-04-08 16:22:54.071 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.073 interchange:418 [INFO]  [MAIN] Sent tasks: [53] to manager b'063694a932a0'
+2019-04-08 16:22:54.073 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.076 interchange:418 [INFO]  [MAIN] Sent tasks: [54] to manager b'063694a932a0'
+2019-04-08 16:22:54.076 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.079 interchange:418 [INFO]  [MAIN] Sent tasks: [55] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.079 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:54.081 interchange:418 [INFO]  [MAIN] Sent tasks: [56] to manager b'063694a932a0'
+2019-04-08 16:22:54.081 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:54.234 interchange:418 [INFO]  [MAIN] Sent tasks: [57] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.234 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:54.236 interchange:418 [INFO]  [MAIN] Sent tasks: [58] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.236 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:54.238 interchange:418 [INFO]  [MAIN] Sent tasks: [59] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.238 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:54.242 interchange:418 [INFO]  [MAIN] Sent tasks: [60] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.242 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:54.243 interchange:418 [INFO]  [MAIN] Sent tasks: [61] to manager b'063694a932a0'
+2019-04-08 16:22:54.243 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.247 interchange:418 [INFO]  [MAIN] Sent tasks: [62] to manager b'063694a932a0'
+2019-04-08 16:22:54.248 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.250 interchange:418 [INFO]  [MAIN] Sent tasks: [63] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.250 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:54.251 interchange:418 [INFO]  [MAIN] Sent tasks: [64] to manager b'063694a932a0'
+2019-04-08 16:22:54.251 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:54.402 interchange:418 [INFO]  [MAIN] Sent tasks: [65] to manager b'063694a932a0'
+2019-04-08 16:22:54.402 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.404 interchange:418 [INFO]  [MAIN] Sent tasks: [66] to manager b'063694a932a0'
+2019-04-08 16:22:54.404 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.406 interchange:418 [INFO]  [MAIN] Sent tasks: [67] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.407 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:54.410 interchange:418 [INFO]  [MAIN] Sent tasks: [68] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.410 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:54.413 interchange:418 [INFO]  [MAIN] Sent tasks: [69] to manager b'063694a932a0'
+2019-04-08 16:22:54.413 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:54.413 interchange:418 [INFO]  [MAIN] Sent tasks: [70] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.414 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:54.415 interchange:418 [INFO]  [MAIN] Sent tasks: [71] to manager b'063694a932a0'
+2019-04-08 16:22:54.416 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:54.417 interchange:418 [INFO]  [MAIN] Sent tasks: [72] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.417 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:54.570 interchange:418 [INFO]  [MAIN] Sent tasks: [73] to manager b'063694a932a0'
+2019-04-08 16:22:54.571 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.572 interchange:418 [INFO]  [MAIN] Sent tasks: [74] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.572 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:54.574 interchange:418 [INFO]  [MAIN] Sent tasks: [75] to manager b'063694a932a0'
+2019-04-08 16:22:54.575 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.575 interchange:418 [INFO]  [MAIN] Sent tasks: [76] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.576 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:54.580 interchange:418 [INFO]  [MAIN] Sent tasks: [77] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.581 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:54.581 interchange:418 [INFO]  [MAIN] Sent tasks: [78] to manager b'063694a932a0'
+2019-04-08 16:22:54.582 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:54.584 interchange:418 [INFO]  [MAIN] Sent tasks: [79] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.585 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:54.587 interchange:418 [INFO]  [MAIN] Sent tasks: [80] to manager b'063694a932a0'
+2019-04-08 16:22:54.587 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:54.740 interchange:418 [INFO]  [MAIN] Sent tasks: [81] to manager b'063694a932a0'
+2019-04-08 16:22:54.740 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:54.741 interchange:418 [INFO]  [MAIN] Sent tasks: [82] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.741 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:54.744 interchange:418 [INFO]  [MAIN] Sent tasks: [83] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.744 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:54.747 interchange:418 [INFO]  [MAIN] Sent tasks: [84] to manager b'063694a932a0'
+2019-04-08 16:22:54.747 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:54.749 interchange:418 [INFO]  [MAIN] Sent tasks: [85] to manager b'063694a932a0'
+2019-04-08 16:22:54.749 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:54.752 interchange:418 [INFO]  [MAIN] Sent tasks: [86] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.753 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:54.755 interchange:418 [INFO]  [MAIN] Sent tasks: [87] to manager b'063694a932a0'
+2019-04-08 16:22:54.755 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:54.757 interchange:418 [INFO]  [MAIN] Sent tasks: [88] to manager b'063694a932a0'
+2019-04-08 16:22:54.757 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:54.909 interchange:418 [INFO]  [MAIN] Sent tasks: [89] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.910 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:54.911 interchange:418 [INFO]  [MAIN] Sent tasks: [90] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.912 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:54.914 interchange:418 [INFO]  [MAIN] Sent tasks: [91] to manager b'063694a932a0'
+2019-04-08 16:22:54.914 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:54.917 interchange:418 [INFO]  [MAIN] Sent tasks: [92] to manager b'063694a932a0'
+2019-04-08 16:22:54.918 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:54.918 interchange:418 [INFO]  [MAIN] Sent tasks: [93] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.919 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:54.921 interchange:418 [INFO]  [MAIN] Sent tasks: [94] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:54.921 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:54.924 interchange:418 [INFO]  [MAIN] Sent tasks: [95] to manager b'063694a932a0'
+2019-04-08 16:22:54.924 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:54.926 interchange:418 [INFO]  [MAIN] Sent tasks: [96] to manager b'063694a932a0'
+2019-04-08 16:22:54.927 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.080 interchange:418 [INFO]  [MAIN] Sent tasks: [97] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:55.081 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 3
+2019-04-08 16:22:55.081 interchange:418 [INFO]  [MAIN] Sent tasks: [98] to manager b'063694a932a0'
+2019-04-08 16:22:55.082 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:55.085 interchange:418 [INFO]  [MAIN] Sent tasks: [99] to manager b'063694a932a0'
+2019-04-08 16:22:55.086 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:55.088 interchange:418 [INFO]  [MAIN] Sent tasks: [100] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:55.088 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 2
+2019-04-08 16:22:55.090 interchange:418 [INFO]  [MAIN] Sent tasks: [101] to manager b'063694a932a0'
+2019-04-08 16:22:55.091 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:55.093 interchange:418 [INFO]  [MAIN] Sent tasks: [102] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:55.093 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:55.096 interchange:418 [INFO]  [MAIN] Sent tasks: [103] to manager b'063694a932a0'
+2019-04-08 16:22:55.096 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.100 interchange:418 [INFO]  [MAIN] Sent tasks: [104] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:55.100 interchange:420 [INFO]  [MAIN] Manager b'83cbc49b5ae2' still has free_capacity 1
+2019-04-08 16:22:55.287 interchange:418 [INFO]  [MAIN] Sent tasks: [105] to manager b'83cbc49b5ae2'
+2019-04-08 16:22:55.287 interchange:423 [INFO]  [MAIN] Manager b'83cbc49b5ae2' is now saturated
+2019-04-08 16:22:55.289 interchange:418 [INFO]  [MAIN] Sent tasks: [106, 107, 108] to manager b'063694a932a0'
+2019-04-08 16:22:55.289 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:55.290 interchange:418 [INFO]  [MAIN] Sent tasks: [109] to manager b'063694a932a0'
+2019-04-08 16:22:55.290 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:55.290 interchange:418 [INFO]  [MAIN] Sent tasks: [110] to manager b'063694a932a0'
+2019-04-08 16:22:55.290 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:55.291 interchange:418 [INFO]  [MAIN] Sent tasks: [111] to manager b'063694a932a0'
+2019-04-08 16:22:55.292 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.419 interchange:418 [INFO]  [MAIN] Sent tasks: [112] to manager b'063694a932a0'
+2019-04-08 16:22:55.419 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:55.442 interchange:418 [INFO]  [MAIN] Sent tasks: [113] to manager b'063694a932a0'
+2019-04-08 16:22:55.442 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.443 interchange:418 [INFO]  [MAIN] Sent tasks: [114] to manager b'063694a932a0'
+2019-04-08 16:22:55.443 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.506 interchange:418 [INFO]  [MAIN] Sent tasks: [115] to manager b'063694a932a0'
+2019-04-08 16:22:55.506 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.507 interchange:418 [INFO]  [MAIN] Sent tasks: [116] to manager b'063694a932a0'
+2019-04-08 16:22:55.507 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.507 interchange:418 [INFO]  [MAIN] Sent tasks: [117] to manager b'063694a932a0'
+2019-04-08 16:22:55.507 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.634 interchange:418 [INFO]  [MAIN] Sent tasks: [118, 119, 120] to manager b'063694a932a0'
+2019-04-08 16:22:55.634 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.635 interchange:418 [INFO]  [MAIN] Sent tasks: [121, 122, 123] to manager b'063694a932a0'
+2019-04-08 16:22:55.635 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.635 interchange:418 [INFO]  [MAIN] Sent tasks: [124, 125, 126] to manager b'063694a932a0'
+2019-04-08 16:22:55.635 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.635 interchange:418 [INFO]  [MAIN] Sent tasks: [127, 128] to manager b'063694a932a0'
+2019-04-08 16:22:55.635 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:55.750 interchange:418 [INFO]  [MAIN] Sent tasks: [129] to manager b'063694a932a0'
+2019-04-08 16:22:55.750 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:55.966 interchange:354 [INFO]  [MAIN] Adding manager: b'f274d26aa50d' to ready queue
+2019-04-08 16:22:55.966 interchange:356 [INFO]  [MAIN] Registration info for manager b'f274d26aa50d': {'parsl_v': '0.7.2', 'python_v': '3.6.8', 'os': 'Linux', 'hname': 'borgmachine2', 'dir': '/home/yadu/src/sc-funcx-eval/fault_tolerance'}
+2019-04-08 16:22:55.966 interchange:418 [INFO]  [MAIN] Sent tasks: [130, 131, 132, 133] to manager b'f274d26aa50d'
+2019-04-08 16:22:55.966 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:55.967 interchange:418 [INFO]  [MAIN] Sent tasks: [134, 135, 136, 137] to manager b'f274d26aa50d'
+2019-04-08 16:22:55.967 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:55.967 interchange:418 [INFO]  [MAIN] Sent tasks: [138, 139, 140, 141] to manager b'f274d26aa50d'
+2019-04-08 16:22:55.967 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:55.967 interchange:418 [INFO]  [MAIN] Sent tasks: [142, 143, 144] to manager b'f274d26aa50d'
+2019-04-08 16:22:55.967 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:56.059 interchange:418 [INFO]  [MAIN] Sent tasks: [145] to manager b'063694a932a0'
+2019-04-08 16:22:56.060 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:56.062 interchange:418 [INFO]  [MAIN] Sent tasks: [146] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.062 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:56.064 interchange:418 [INFO]  [MAIN] Sent tasks: [147] to manager b'063694a932a0'
+2019-04-08 16:22:56.064 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:56.074 interchange:418 [INFO]  [MAIN] Sent tasks: [148, 149] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.075 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:56.076 interchange:418 [INFO]  [MAIN] Sent tasks: [150] to manager b'063694a932a0'
+2019-04-08 16:22:56.076 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:56.078 interchange:418 [INFO]  [MAIN] Sent tasks: [151] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.078 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:56.080 interchange:418 [INFO]  [MAIN] Sent tasks: [152] to manager b'063694a932a0'
+2019-04-08 16:22:56.080 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:56.233 interchange:418 [INFO]  [MAIN] Sent tasks: [153] to manager b'063694a932a0'
+2019-04-08 16:22:56.233 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:56.235 interchange:418 [INFO]  [MAIN] Sent tasks: [154] to manager b'063694a932a0'
+2019-04-08 16:22:56.235 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:56.237 interchange:418 [INFO]  [MAIN] Sent tasks: [155] to manager b'063694a932a0'
+2019-04-08 16:22:56.237 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:56.239 interchange:418 [INFO]  [MAIN] Sent tasks: [156] to manager b'063694a932a0'
+2019-04-08 16:22:56.239 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:56.240 interchange:418 [INFO]  [MAIN] Sent tasks: [157] to manager b'063694a932a0'
+2019-04-08 16:22:56.241 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.373 interchange:418 [INFO]  [MAIN] Sent tasks: [158, 159, 160] to manager b'063694a932a0'
+2019-04-08 16:22:56.374 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.399 interchange:418 [INFO]  [MAIN] Sent tasks: [161] to manager b'063694a932a0'
+2019-04-08 16:22:56.399 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:56.401 interchange:418 [INFO]  [MAIN] Sent tasks: [162, 163] to manager b'063694a932a0'
+2019-04-08 16:22:56.401 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.531 interchange:418 [INFO]  [MAIN] Sent tasks: [164] to manager b'063694a932a0'
+2019-04-08 16:22:56.531 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.532 interchange:418 [INFO]  [MAIN] Sent tasks: [165] to manager b'063694a932a0'
+2019-04-08 16:22:56.533 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.534 interchange:418 [INFO]  [MAIN] Sent tasks: [166] to manager b'063694a932a0'
+2019-04-08 16:22:56.535 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.595 interchange:418 [INFO]  [MAIN] Sent tasks: [167, 168] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.595 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:56.615 interchange:418 [INFO]  [MAIN] Sent tasks: [169] to manager b'063694a932a0'
+2019-04-08 16:22:56.615 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.616 interchange:418 [INFO]  [MAIN] Sent tasks: [170] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.616 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:56.619 interchange:418 [INFO]  [MAIN] Sent tasks: [171] to manager b'063694a932a0'
+2019-04-08 16:22:56.619 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.621 interchange:418 [INFO]  [MAIN] Sent tasks: [172] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.622 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:56.623 interchange:418 [INFO]  [MAIN] Sent tasks: [173] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.624 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:56.626 interchange:418 [INFO]  [MAIN] Sent tasks: [174] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.626 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:56.653 interchange:418 [INFO]  [MAIN] Sent tasks: [175] to manager b'063694a932a0'
+2019-04-08 16:22:56.653 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.655 interchange:418 [INFO]  [MAIN] Sent tasks: [176] to manager b'063694a932a0'
+2019-04-08 16:22:56.655 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.780 interchange:418 [INFO]  [MAIN] Sent tasks: [177] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.781 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:56.782 interchange:418 [INFO]  [MAIN] Sent tasks: [178] to manager b'063694a932a0'
+2019-04-08 16:22:56.783 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.785 interchange:418 [INFO]  [MAIN] Sent tasks: [179] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.785 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:56.788 interchange:418 [INFO]  [MAIN] Sent tasks: [180] to manager b'063694a932a0'
+2019-04-08 16:22:56.788 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:56.790 interchange:418 [INFO]  [MAIN] Sent tasks: [181] to manager b'063694a932a0'
+2019-04-08 16:22:56.790 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:56.792 interchange:418 [INFO]  [MAIN] Sent tasks: [182] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.792 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:56.794 interchange:418 [INFO]  [MAIN] Sent tasks: [183] to manager b'063694a932a0'
+2019-04-08 16:22:56.794 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:56.797 interchange:418 [INFO]  [MAIN] Sent tasks: [184] to manager b'063694a932a0'
+2019-04-08 16:22:56.797 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.948 interchange:418 [INFO]  [MAIN] Sent tasks: [185] to manager b'063694a932a0'
+2019-04-08 16:22:56.948 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:56.950 interchange:418 [INFO]  [MAIN] Sent tasks: [186] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.951 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:56.953 interchange:418 [INFO]  [MAIN] Sent tasks: [187] to manager b'063694a932a0'
+2019-04-08 16:22:56.953 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:56.955 interchange:418 [INFO]  [MAIN] Sent tasks: [188] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.955 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:56.957 interchange:418 [INFO]  [MAIN] Sent tasks: [189] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.958 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:56.962 interchange:418 [INFO]  [MAIN] Sent tasks: [190] to manager b'063694a932a0'
+2019-04-08 16:22:56.963 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:56.964 interchange:418 [INFO]  [MAIN] Sent tasks: [191] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.964 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:56.965 interchange:418 [INFO]  [MAIN] Sent tasks: [192] to manager b'f274d26aa50d'
+2019-04-08 16:22:56.966 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.100 interchange:452 [WARNING]  [MAIN] Too many heartbeats missed for manager b'83cbc49b5ae2'
+2019-04-08 16:22:57.101 interchange:458 [WARNING]  [MAIN] Sent failure reports, unregistering manager
+2019-04-08 16:22:57.101 interchange:458 [WARNING]  [MAIN] Sent failure reports, unregistering manager
+2019-04-08 16:22:57.102 interchange:458 [WARNING]  [MAIN] Sent failure reports, unregistering manager
+2019-04-08 16:22:57.102 interchange:458 [WARNING]  [MAIN] Sent failure reports, unregistering manager
+2019-04-08 16:22:57.103 interchange:458 [WARNING]  [MAIN] Sent failure reports, unregistering manager
+2019-04-08 16:22:57.106 interchange:418 [INFO]  [MAIN] Sent tasks: [193] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.106 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:57.108 interchange:418 [INFO]  [MAIN] Sent tasks: [194] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.109 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:57.112 interchange:418 [INFO]  [MAIN] Sent tasks: [195] to manager b'063694a932a0'
+2019-04-08 16:22:57.112 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:57.114 interchange:418 [INFO]  [MAIN] Sent tasks: [196] to manager b'063694a932a0'
+2019-04-08 16:22:57.114 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:57.120 interchange:418 [INFO]  [MAIN] Sent tasks: [197] to manager b'063694a932a0'
+2019-04-08 16:22:57.121 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:57.121 interchange:418 [INFO]  [MAIN] Sent tasks: [198] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.121 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.125 interchange:418 [INFO]  [MAIN] Sent tasks: [199] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.125 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.128 interchange:418 [INFO]  [MAIN] Sent tasks: [200] to manager b'063694a932a0'
+2019-04-08 16:22:57.128 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.130 interchange:418 [INFO]  [MAIN] Sent tasks: [201] to manager b'063694a932a0'
+2019-04-08 16:22:57.130 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.256 interchange:418 [INFO]  [MAIN] Sent tasks: [202, 203, 204] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.257 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.259 interchange:418 [INFO]  [MAIN] Sent tasks: [205] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.259 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:57.291 interchange:418 [INFO]  [MAIN] Sent tasks: [206] to manager b'063694a932a0'
+2019-04-08 16:22:57.291 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:57.292 interchange:418 [INFO]  [MAIN] Sent tasks: [207] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.292 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.295 interchange:418 [INFO]  [MAIN] Sent tasks: [208] to manager b'063694a932a0'
+2019-04-08 16:22:57.296 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:57.297 interchange:418 [INFO]  [MAIN] Sent tasks: [209] to manager b'063694a932a0'
+2019-04-08 16:22:57.298 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:57.300 interchange:418 [INFO]  [MAIN] Sent tasks: [210] to manager b'063694a932a0'
+2019-04-08 16:22:57.300 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.301 interchange:418 [INFO]  [MAIN] Sent tasks: [211] to manager b'063694a932a0'
+2019-04-08 16:22:57.301 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.319 interchange:418 [INFO]  [MAIN] Sent tasks: [212] to manager b'063694a932a0'
+2019-04-08 16:22:57.319 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.424 interchange:418 [INFO]  [MAIN] Sent tasks: [213] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.425 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:57.457 interchange:418 [INFO]  [MAIN] Sent tasks: [214] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.457 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:57.459 interchange:418 [INFO]  [MAIN] Sent tasks: [215] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.460 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:57.462 interchange:418 [INFO]  [MAIN] Sent tasks: [216] to manager b'063694a932a0'
+2019-04-08 16:22:57.462 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:57.465 interchange:418 [INFO]  [MAIN] Sent tasks: [217] to manager b'063694a932a0'
+2019-04-08 16:22:57.465 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:57.468 interchange:418 [INFO]  [MAIN] Sent tasks: [218] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.468 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.470 interchange:418 [INFO]  [MAIN] Sent tasks: [219] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.470 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.472 interchange:418 [INFO]  [MAIN] Sent tasks: [220] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.473 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.473 interchange:418 [INFO]  [MAIN] Sent tasks: [221] to manager b'063694a932a0'
+2019-04-08 16:22:57.474 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.626 interchange:418 [INFO]  [MAIN] Sent tasks: [222] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.626 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:57.628 interchange:418 [INFO]  [MAIN] Sent tasks: [223] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.628 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:57.630 interchange:418 [INFO]  [MAIN] Sent tasks: [224] to manager b'063694a932a0'
+2019-04-08 16:22:57.630 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:57.632 interchange:418 [INFO]  [MAIN] Sent tasks: [225] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.633 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.635 interchange:418 [INFO]  [MAIN] Sent tasks: [226] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.636 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.637 interchange:418 [INFO]  [MAIN] Sent tasks: [227] to manager b'063694a932a0'
+2019-04-08 16:22:57.637 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:57.639 interchange:418 [INFO]  [MAIN] Sent tasks: [228] to manager b'063694a932a0'
+2019-04-08 16:22:57.639 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:57.641 interchange:418 [INFO]  [MAIN] Sent tasks: [229] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.642 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.793 interchange:418 [INFO]  [MAIN] Sent tasks: [230] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.793 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:57.795 interchange:418 [INFO]  [MAIN] Sent tasks: [231] to manager b'063694a932a0'
+2019-04-08 16:22:57.796 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:57.798 interchange:418 [INFO]  [MAIN] Sent tasks: [232] to manager b'063694a932a0'
+2019-04-08 16:22:57.798 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:57.801 interchange:418 [INFO]  [MAIN] Sent tasks: [233] to manager b'063694a932a0'
+2019-04-08 16:22:57.801 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:57.803 interchange:418 [INFO]  [MAIN] Sent tasks: [234] to manager b'063694a932a0'
+2019-04-08 16:22:57.803 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:57.805 interchange:418 [INFO]  [MAIN] Sent tasks: [235] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.806 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:57.809 interchange:418 [INFO]  [MAIN] Sent tasks: [236] to manager b'063694a932a0'
+2019-04-08 16:22:57.809 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.810 interchange:418 [INFO]  [MAIN] Sent tasks: [237] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.810 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:57.962 interchange:418 [INFO]  [MAIN] Sent tasks: [238] to manager b'063694a932a0'
+2019-04-08 16:22:57.963 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:57.965 interchange:418 [INFO]  [MAIN] Sent tasks: [239] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.965 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:57.968 interchange:418 [INFO]  [MAIN] Sent tasks: [240] to manager b'063694a932a0'
+2019-04-08 16:22:57.969 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:57.976 interchange:418 [INFO]  [MAIN] Sent tasks: [241, 242, 243] to manager b'f274d26aa50d'
+2019-04-08 16:22:57.977 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:57.977 interchange:418 [INFO]  [MAIN] Sent tasks: [244] to manager b'063694a932a0'
+2019-04-08 16:22:57.977 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:57.981 interchange:418 [INFO]  [MAIN] Sent tasks: [245] to manager b'063694a932a0'
+2019-04-08 16:22:57.981 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:58.132 interchange:418 [INFO]  [MAIN] Sent tasks: [246] to manager b'063694a932a0'
+2019-04-08 16:22:58.132 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:58.135 interchange:418 [INFO]  [MAIN] Sent tasks: [247] to manager b'063694a932a0'
+2019-04-08 16:22:58.135 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:58.138 interchange:418 [INFO]  [MAIN] Sent tasks: [248] to manager b'063694a932a0'
+2019-04-08 16:22:58.138 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:58.140 interchange:418 [INFO]  [MAIN] Sent tasks: [249] to manager b'063694a932a0'
+2019-04-08 16:22:58.141 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:58.143 interchange:418 [INFO]  [MAIN] Sent tasks: [250] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.144 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:58.148 interchange:418 [INFO]  [MAIN] Sent tasks: [251] to manager b'063694a932a0'
+2019-04-08 16:22:58.148 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:58.149 interchange:418 [INFO]  [MAIN] Sent tasks: [252] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.149 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:58.153 interchange:418 [INFO]  [MAIN] Sent tasks: [253] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.153 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:58.303 interchange:418 [INFO]  [MAIN] Sent tasks: [254] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.304 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:58.305 interchange:418 [INFO]  [MAIN] Sent tasks: [255] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.306 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:58.308 interchange:418 [INFO]  [MAIN] Sent tasks: [256] to manager b'063694a932a0'
+2019-04-08 16:22:58.309 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:58.311 interchange:418 [INFO]  [MAIN] Sent tasks: [257] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.314 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:58.318 interchange:418 [INFO]  [MAIN] Sent tasks: [258] to manager b'063694a932a0'
+2019-04-08 16:22:58.318 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:58.319 interchange:418 [INFO]  [MAIN] Sent tasks: [259] to manager b'063694a932a0'
+2019-04-08 16:22:58.320 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:58.341 interchange:418 [INFO]  [MAIN] Sent tasks: [260] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.344 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:58.345 interchange:418 [INFO]  [MAIN] Sent tasks: [261] to manager b'063694a932a0'
+2019-04-08 16:22:58.345 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:58.497 interchange:418 [INFO]  [MAIN] Sent tasks: [262] to manager b'063694a932a0'
+2019-04-08 16:22:58.497 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:58.499 interchange:418 [INFO]  [MAIN] Sent tasks: [263] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.500 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:58.504 interchange:418 [INFO]  [MAIN] Sent tasks: [264] to manager b'063694a932a0'
+2019-04-08 16:22:58.507 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:58.508 interchange:418 [INFO]  [MAIN] Sent tasks: [265] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.508 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:58.511 interchange:418 [INFO]  [MAIN] Sent tasks: [266] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.511 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:58.512 interchange:418 [INFO]  [MAIN] Sent tasks: [267] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.512 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:58.514 interchange:418 [INFO]  [MAIN] Sent tasks: [268] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.515 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:58.517 interchange:418 [INFO]  [MAIN] Sent tasks: [269] to manager b'063694a932a0'
+2019-04-08 16:22:58.517 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:58.670 interchange:418 [INFO]  [MAIN] Sent tasks: [270] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.670 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:58.675 interchange:418 [INFO]  [MAIN] Sent tasks: [271] to manager b'063694a932a0'
+2019-04-08 16:22:58.677 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:58.681 interchange:418 [INFO]  [MAIN] Sent tasks: [272, 273] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.681 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:58.683 interchange:418 [INFO]  [MAIN] Sent tasks: [274] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.683 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:58.686 interchange:418 [INFO]  [MAIN] Sent tasks: [275] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.686 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:58.687 interchange:418 [INFO]  [MAIN] Sent tasks: [276] to manager b'063694a932a0'
+2019-04-08 16:22:58.687 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:58.689 interchange:418 [INFO]  [MAIN] Sent tasks: [277] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.690 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:58.843 interchange:418 [INFO]  [MAIN] Sent tasks: [278] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.844 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:58.846 interchange:418 [INFO]  [MAIN] Sent tasks: [279] to manager b'063694a932a0'
+2019-04-08 16:22:58.846 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:58.848 interchange:418 [INFO]  [MAIN] Sent tasks: [280] to manager b'063694a932a0'
+2019-04-08 16:22:58.848 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:58.849 interchange:418 [INFO]  [MAIN] Sent tasks: [281] to manager b'063694a932a0'
+2019-04-08 16:22:58.850 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:58.853 interchange:418 [INFO]  [MAIN] Sent tasks: [282] to manager b'063694a932a0'
+2019-04-08 16:22:58.853 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:58.854 interchange:418 [INFO]  [MAIN] Sent tasks: [283] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.854 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:58.864 interchange:418 [INFO]  [MAIN] Sent tasks: [284] to manager b'063694a932a0'
+2019-04-08 16:22:58.865 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:58.893 interchange:418 [INFO]  [MAIN] Sent tasks: [285] to manager b'f274d26aa50d'
+2019-04-08 16:22:58.894 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:59.021 interchange:418 [INFO]  [MAIN] Sent tasks: [286] to manager b'063694a932a0'
+2019-04-08 16:22:59.021 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:59.021 interchange:418 [INFO]  [MAIN] Sent tasks: [287] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.021 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:59.022 interchange:418 [INFO]  [MAIN] Sent tasks: [288] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.022 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:59.023 interchange:418 [INFO]  [MAIN] Sent tasks: [289] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.023 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:59.023 interchange:418 [INFO]  [MAIN] Sent tasks: [290] to manager b'063694a932a0'
+2019-04-08 16:22:59.023 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:59.024 interchange:418 [INFO]  [MAIN] Sent tasks: [291] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.024 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
+2019-04-08 16:22:59.024 interchange:418 [INFO]  [MAIN] Sent tasks: [292] to manager b'063694a932a0'
+2019-04-08 16:22:59.024 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:59.025 interchange:418 [INFO]  [MAIN] Sent tasks: [293] to manager b'063694a932a0'
+2019-04-08 16:22:59.025 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:59.178 interchange:418 [INFO]  [MAIN] Sent tasks: [294] to manager b'063694a932a0'
+2019-04-08 16:22:59.179 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:59.182 interchange:418 [INFO]  [MAIN] Sent tasks: [295] to manager b'063694a932a0'
+2019-04-08 16:22:59.182 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 3
+2019-04-08 16:22:59.184 interchange:418 [INFO]  [MAIN] Sent tasks: [296] to manager b'063694a932a0'
+2019-04-08 16:22:59.184 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:59.186 interchange:418 [INFO]  [MAIN] Sent tasks: [297] to manager b'063694a932a0'
+2019-04-08 16:22:59.186 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:59.187 interchange:418 [INFO]  [MAIN] Sent tasks: [298] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.189 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:59.190 interchange:418 [INFO]  [MAIN] Sent tasks: [299] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.191 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:59.191 interchange:418 [INFO]  [MAIN] Sent tasks: [300] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.192 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:59.194 interchange:418 [INFO]  [MAIN] Sent tasks: [301] to manager b'063694a932a0'
+2019-04-08 16:22:59.194 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:59.347 interchange:418 [INFO]  [MAIN] Sent tasks: [302] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.348 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 3
+2019-04-08 16:22:59.349 interchange:418 [INFO]  [MAIN] Sent tasks: [303] to manager b'063694a932a0'
+2019-04-08 16:22:59.349 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 2
+2019-04-08 16:22:59.354 interchange:418 [INFO]  [MAIN] Sent tasks: [304] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.355 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 2
+2019-04-08 16:22:59.357 interchange:418 [INFO]  [MAIN] Sent tasks: [305] to manager b'063694a932a0'
+2019-04-08 16:22:59.358 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:59.362 interchange:418 [INFO]  [MAIN] Sent tasks: [306] to manager b'063694a932a0'
+2019-04-08 16:22:59.362 interchange:420 [INFO]  [MAIN] Manager b'063694a932a0' still has free_capacity 1
+2019-04-08 16:22:59.365 interchange:418 [INFO]  [MAIN] Sent tasks: [307] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.365 interchange:420 [INFO]  [MAIN] Manager b'f274d26aa50d' still has free_capacity 1
+2019-04-08 16:22:59.372 interchange:418 [INFO]  [MAIN] Sent tasks: [308] to manager b'063694a932a0'
+2019-04-08 16:22:59.373 interchange:423 [INFO]  [MAIN] Manager b'063694a932a0' is now saturated
+2019-04-08 16:22:59.374 interchange:418 [INFO]  [MAIN] Sent tasks: [309] to manager b'f274d26aa50d'
+2019-04-08 16:22:59.374 interchange:423 [INFO]  [MAIN] Manager b'f274d26aa50d' is now saturated
