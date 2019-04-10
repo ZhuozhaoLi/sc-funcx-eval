@@ -1,0 +1,204 @@
+Running HTEX with 16384
+The walltime for 16384 workers is 00:30:00
+Config(
+    app_cache=True, 
+    checkpoint_files=None, 
+    checkpoint_mode=None, 
+    checkpoint_period=None, 
+    data_management_max_threads=10, 
+    executors=[HighThroughputExecutor(
+        address='128.55.144.138', 
+        container_image='yadudoc/funcx_py3.7_v0.1:latest', 
+        cores_per_worker=1, 
+        heartbeat_period=30, 
+        heartbeat_threshold=120, 
+        interchange_port_range=(55000, 56000), 
+        label='cori_funcX_shifter', 
+        launch_cmd='process_worker_pool.py {debug} {max_workers} -c {cores_per_worker} --poll {poll_period} --task_url={task_url} --result_url={result_url} --logdir={logdir} --hb_period={heartbeat_period} --hb_threshold={heartbeat_threshold} --mode={worker_mode} --container_image={container_image} ', 
+        managed=True, 
+        max_workers=64, 
+        poll_period=10, 
+        provider=SlurmProvider(
+            'regular',
+            channel=LocalChannel(
+                envs={}, 
+                script_dir=None, 
+                userhome='/global/u2/y/yadunand/HPDC19-code/parsl-htex/cori/strong-scaling'
+            ), 
+            cmd_timeout=10, 
+            exclusive=True, 
+            init_blocks=1, 
+            launcher=SrunLauncher(overrides='-c 64'), 
+            max_blocks=1, 
+            min_blocks=1, 
+            move_files=True, 
+            nodes_per_block=256, 
+            parallelism=1, 
+            scheduler_options='#SBATCH --exclusive\n#SBATCH --constraint=knl,quad,cache\n#SBATCH --image=yadudoc/funcx_py3.7_v0.1:latest\n', 
+            walltime='02:00:00', 
+            worker_init='source ~/setup_funcx_py3.7.sh'
+        ), 
+        storage_access=[], 
+        suppress_failure=False, 
+        worker_debug=False, 
+        worker_mode='shifter_reuse', 
+        worker_port_range=(54000, 55000), 
+        worker_ports=None, 
+        working_dir=None
+    )], 
+    lazy_errors=True, 
+    monitoring=None, 
+    retries=0, 
+    run_dir='/global/homes/y/yadunand/HPDC19-code/parsl-htex/cori/strong-scaling/runinfo', 
+    strategy=None, 
+    usage_tracking=False
+)
+attempt 0: waiting for 256 managers, but only found 0
+attempt 1: waiting for 256 managers, but only found 0
+attempt 2: waiting for 256 managers, but only found 0
+attempt 3: waiting for 256 managers, but only found 0
+attempt 4: waiting for 256 managers, but only found 0
+attempt 5: waiting for 256 managers, but only found 0
+attempt 6: waiting for 256 managers, but only found 0
+attempt 7: waiting for 256 managers, but only found 0
+attempt 8: waiting for 256 managers, but only found 0
+attempt 9: waiting for 256 managers, but only found 0
+attempt 10: waiting for 256 managers, but only found 0
+attempt 11: waiting for 256 managers, but only found 0
+attempt 12: waiting for 256 managers, but only found 0
+attempt 13: waiting for 256 managers, but only found 0
+attempt 14: waiting for 256 managers, but only found 0
+attempt 15: waiting for 256 managers, but only found 0
+attempt 16: waiting for 256 managers, but only found 0
+attempt 17: waiting for 256 managers, but only found 0
+attempt 18: waiting for 256 managers, but only found 0
+attempt 19: waiting for 256 managers, but only found 0
+attempt 20: waiting for 256 managers, but only found 0
+attempt 21: waiting for 256 managers, but only found 0
+attempt 22: waiting for 256 managers, but only found 1
+attempt 23: waiting for 256 managers, but only found 1
+attempt 24: waiting for 256 managers, but only found 1
+attempt 25: waiting for 256 managers, but only found 1
+attempt 26: waiting for 256 managers, but only found 1
+attempt 27: waiting for 256 managers, but only found 1
+attempt 28: waiting for 256 managers, but only found 1
+attempt 29: waiting for 256 managers, but only found 1
+attempt 30: waiting for 256 managers, but only found 1
+attempt 31: waiting for 256 managers, but only found 1
+attempt 32: waiting for 256 managers, but only found 1
+attempt 33: waiting for 256 managers, but only found 1
+attempt 34: waiting for 256 managers, but only found 1
+attempt 35: waiting for 256 managers, but only found 1
+attempt 36: waiting for 256 managers, but only found 1
+attempt 37: waiting for 256 managers, but only found 1
+attempt 38: waiting for 256 managers, but only found 1
+attempt 39: waiting for 256 managers, but only found 1
+attempt 40: waiting for 256 managers, but only found 1
+attempt 41: waiting for 256 managers, but only found 1
+attempt 42: waiting for 256 managers, but only found 1
+attempt 43: waiting for 256 managers, but only found 1
+attempt 44: waiting for 256 managers, but only found 1
+attempt 45: waiting for 256 managers, but only found 1
+attempt 46: waiting for 256 managers, but only found 1
+attempt 47: waiting for 256 managers, but only found 1
+attempt 48: waiting for 256 managers, but only found 1
+attempt 49: waiting for 256 managers, but only found 1
+attempt 50: waiting for 256 managers, but only found 1
+attempt 51: waiting for 256 managers, but only found 1
+attempt 52: waiting for 256 managers, but only found 1
+attempt 53: waiting for 256 managers, but only found 1
+attempt 54: waiting for 256 managers, but only found 1
+attempt 55: waiting for 256 managers, but only found 1
+attempt 56: waiting for 256 managers, but only found 1
+attempt 57: waiting for 256 managers, but only found 1
+attempt 58: waiting for 256 managers, but only found 1
+attempt 59: waiting for 256 managers, but only found 1
+attempt 60: waiting for 256 managers, but only found 1
+attempt 61: waiting for 256 managers, but only found 1
+attempt 62: waiting for 256 managers, but only found 1
+attempt 63: waiting for 256 managers, but only found 1
+attempt 64: waiting for 256 managers, but only found 1
+attempt 65: waiting for 256 managers, but only found 1
+attempt 66: waiting for 256 managers, but only found 1
+attempt 67: waiting for 256 managers, but only found 1
+attempt 68: waiting for 256 managers, but only found 1
+attempt 69: waiting for 256 managers, but only found 1
+attempt 70: waiting for 256 managers, but only found 1
+attempt 71: waiting for 256 managers, but only found 1
+attempt 72: waiting for 256 managers, but only found 1
+attempt 73: waiting for 256 managers, but only found 1
+attempt 74: waiting for 256 managers, but only found 1
+attempt 75: waiting for 256 managers, but only found 1
+attempt 76: waiting for 256 managers, but only found 1
+attempt 77: waiting for 256 managers, but only found 1
+attempt 78: waiting for 256 managers, but only found 1
+attempt 79: waiting for 256 managers, but only found 1
+attempt 80: waiting for 256 managers, but only found 1
+attempt 81: waiting for 256 managers, but only found 1
+attempt 82: waiting for 256 managers, but only found 1
+attempt 83: waiting for 256 managers, but only found 1
+attempt 84: waiting for 256 managers, but only found 1
+attempt 85: waiting for 256 managers, but only found 1
+attempt 86: waiting for 256 managers, but only found 1
+attempt 87: waiting for 256 managers, but only found 1
+attempt 88: waiting for 256 managers, but only found 1
+attempt 89: waiting for 256 managers, but only found 1
+attempt 90: waiting for 256 managers, but only found 1
+attempt 91: waiting for 256 managers, but only found 1
+attempt 92: waiting for 256 managers, but only found 1
+attempt 93: waiting for 256 managers, but only found 1
+attempt 94: waiting for 256 managers, but only found 1
+attempt 95: waiting for 256 managers, but only found 1
+attempt 96: waiting for 256 managers, but only found 1
+attempt 97: waiting for 256 managers, but only found 1
+attempt 98: waiting for 256 managers, but only found 1
+attempt 99: waiting for 256 managers, but only found 1
+attempt 100: waiting for 256 managers, but only found 1
+attempt 101: waiting for 256 managers, but only found 1
+attempt 102: waiting for 256 managers, but only found 1
+attempt 103: waiting for 256 managers, but only found 1
+attempt 104: waiting for 256 managers, but only found 1
+attempt 105: waiting for 256 managers, but only found 1
+attempt 106: waiting for 256 managers, but only found 1
+attempt 107: waiting for 256 managers, but only found 1
+attempt 108: waiting for 256 managers, but only found 1
+attempt 109: waiting for 256 managers, but only found 1
+attempt 110: waiting for 256 managers, but only found 1
+attempt 111: waiting for 256 managers, but only found 1
+attempt 112: waiting for 256 managers, but only found 1
+attempt 113: waiting for 256 managers, but only found 1
+attempt 114: waiting for 256 managers, but only found 1
+attempt 115: waiting for 256 managers, but only found 1
+attempt 116: waiting for 256 managers, but only found 1
+attempt 117: waiting for 256 managers, but only found 1
+attempt 118: waiting for 256 managers, but only found 1
+attempt 119: waiting for 256 managers, but only found 1
+attempt 120: waiting for 256 managers, but only found 1
+attempt 121: waiting for 256 managers, but only found 1
+attempt 122: waiting for 256 managers, but only found 1
+attempt 123: waiting for 256 managers, but only found 1
+attempt 124: waiting for 256 managers, but only found 1
+attempt 125: waiting for 256 managers, but only found 1
+attempt 126: waiting for 256 managers, but only found 1
+attempt 127: waiting for 256 managers, but only found 1
+attempt 128: waiting for 256 managers, but only found 1
+attempt 129: waiting for 256 managers, but only found 1
+attempt 130: waiting for 256 managers, but only found 1
+attempt 131: waiting for 256 managers, but only found 1
+attempt 132: waiting for 256 managers, but only found 1
+attempt 133: waiting for 256 managers, but only found 1
+attempt 134: waiting for 256 managers, but only found 1
+attempt 135: waiting for 256 managers, but only found 1
+attempt 136: waiting for 256 managers, but only found 1
+attempt 137: waiting for 256 managers, but only found 1
+attempt 138: waiting for 256 managers, but only found 1
+attempt 139: waiting for 256 managers, but only found 1
+attempt 140: waiting for 256 managers, but only found 1
+attempt 141: waiting for 256 managers, but only found 1
+attempt 142: waiting for 256 managers, but only found 1
+attempt 143: waiting for 256 managers, but only found 1
+attempt 144: waiting for 256 managers, but only found 1
+attempt 145: waiting for 256 managers, but only found 1
+attempt 146: waiting for 256 managers, but only found 1
+attempt 147: waiting for 256 managers, but only found 1
+attempt 148: waiting for 256 managers, but only found 1

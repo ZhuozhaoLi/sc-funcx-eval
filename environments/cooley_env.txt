@@ -1,0 +1,378 @@
+CPLUS_INCLUDE_PATH=
+DB2INSTANCE=db2cat
+MANPATH=/home/USER/man:/soft/environment/softenv-1.6.2/man:/usr/share/man:/usr/local/man:/usr/X11R6/man:/soft/interpreters/python/anaconda/anaconda3/4.0.0/share/man
+XDG_SESSION_ID=306
+IBM_DB_LIB=/dbhome/db2cat/sqllib/lib
+HOSTNAME=cooleylogin2
+TERM=screen
+SHELL=/bin/bash
+PROJECT=PROJECT
+HISTSIZE=1000
+SSH_CLIENT=207.229.176.209 48330 22
+LIBRARY_PATH=
+NCARG_FONTCAPS=/usr/lib64/ncarg/fontcaps
+LD_PRELOAD=/soft/buildtools/trackdeps/${LIB}/trackdeps.so
+IBM_DB_DIR=/dbhome/db2cat/sqllib
+MIC_LD_LIBRARY_PATH=
+INCLUDE_PATH=
+SSH_TTY=/dev/pts/6
+QT_GRAPHICSSYSTEM_CHECKED=1
+USER=USER
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=01;05;37;41:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=01;36:*.au=01;36:*.flac=01;36:*.mid=01;36:*.midi=01;36:*.mka=01;36:*.mp3=01;36:*.mpc=01;36:*.ogg=01;36:*.ra=01;36:*.wav=01;36:*.axa=01;36:*.oga=01;36:*.spx=01;36:*.xspf=01;36:
+LD_LIBRARY_PATH=/dbhome/db2cat/sqllib/lib64:/dbhome/db2cat/sqllib/lib64/gskit:/dbhome/db2cat/sqllib/lib32
+TERMCAP=SC|screen|VT 100/ANSI X3.64 virtual terminal:\
+	:DO=\E[%dB:LE=\E[%dD:RI=\E[%dC:UP=\E[%dA:bs:bt=\E[Z:\
+	:cd=\E[J:ce=\E[K:cl=\E[H\E[J:cm=\E[%i%d;%dH:ct=\E[3g:\
+	:do=^J:nd=\E[C:pt:rc=\E8:rs=\Ec:sc=\E7:st=\EH:up=\EM:\
+	:le=^H:bl=^G:cr=^M:it#8:ho=\E[H:nw=\EE:ta=^I:is=\E)0:\
+	:li#49:co#226:am:xn:xv:LP:sr=\EM:al=\E[L:AL=\E[%dL:\
+	:cs=\E[%i%d;%dr:dl=\E[M:DL=\E[%dM:dc=\E[P:DC=\E[%dP:\
+	:im=\E[4h:ei=\E[4l:mi:IC=\E[%d@:ks=\E[?1h\E=:\
+	:ke=\E[?1l\E>:vi=\E[?25l:ve=\E[34h\E[?25h:vs=\E[34l:\
+	:ti=\E[?1049h:te=\E[?1049l:us=\E[4m:ue=\E[24m:so=\E[3m:\
+	:se=\E[23m:mb=\E[5m:md=\E[1m:mr=\E[7m:me=\E[m:ms:\
+	:Co#8:pa#64:AF=\E[3%dm:AB=\E[4%dm:op=\E[39;49m:AX:\
+	:vb=\Eg:G0:as=\E(0:ae=\E(B:\
+	:ac=\140\140aaffggjjkkllmmnnooppqqrrssttuuvvwwxxyyzz{{||}}~~..--++,,hhII00:\
+	:po=\E[5i:pf=\E[4i:Km=\E[M:k0=\E[10~:k1=\EOP:k2=\EOQ:\
+	:k3=\EOR:k4=\EOS:k5=\E[15~:k6=\E[17~:k7=\E[18~:\
+	:k8=\E[19~:k9=\E[20~:k;=\E[21~:F1=\E[23~:F2=\E[24~:\
+	:F3=\E[1;2P:F4=\E[1;2Q:F5=\E[1;2R:F6=\E[1;2S:\
+	:F7=\E[15;2~:F8=\E[17;2~:F9=\E[18;2~:FA=\E[19;2~:kb=:\
+	:K2=\EOE:kB=\E[Z:kF=\E[1;2B:kR=\E[1;2A:*4=\E[3;2~:\
+	:*7=\E[1;2F:#2=\E[1;2H:#3=\E[2;2~:#4=\E[1;2D:%c=\E[6;2~:\
+	:%e=\E[5;2~:%i=\E[1;2C:kh=\E[1~:@1=\E[1~:kH=\E[4~:\
+	:@7=\E[4~:kN=\E[6~:kP=\E[5~:kI=\E[2~:kD=\E[3~:ku=\EOA:\
+	:kd=\EOB:kr=\EOC:kl=\EOD:km:
+CPATH=
+IBM_DB_HOME=/dbhome/db2cat/sqllib
+NCARG_GRAPHCAPS=/usr/lib64/ncarg/graphcaps
+NLSPATH=
+MAIL=/var/spool/mail/USER
+PATH=/home/USER/.conda/envs/funcx36/bin:/home/USER/.conda/envs/py36/bin:/gpfs/mira-fs1/projects/DLHub/ryan/xbrainmap/google-cloud-sdk/bin:/home/USER/bin:/soft/environment/softenv-1.6.2/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin:/usr/X11R6/bin:/soft/buildtools/trackdeps/bin:/dbhome/db2cat/sqllib/bin:/dbhome/db2cat/sqllib/adm:/dbhome/db2cat/sqllib/misc:/opt/ibutils/bin
+STY=134610.pts-6.cooleylogin2
+CONDA_PATH_BACKUP=/home/USER/.conda/envs/py36/bin:/gpfs/mira-fs1/projects/DLHub/ryan/xbrainmap/google-cloud-sdk/bin:/home/USER/bin:/soft/environment/softenv-1.6.2/bin:/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin:/usr/X11R6/bin:/soft/buildtools/trackdeps/bin:/dbhome/db2cat/sqllib/bin:/dbhome/db2cat/sqllib/adm:/dbhome/db2cat/sqllib/misc:/opt/ibutils/bin
+_=/bin/env
+C_INCLUDE_PATH=
+SOFTENV_ALIASES=/soft/environment/softenv-1.6.2/etc/softenv-aliases.sh
+CONDA_PREFIX=/home/USER/.conda/envs/funcx36
+PWD=/home/USER/FuncX/evaluation
+NCARG_ROOT=/usr
+LANG=en_US.UTF-8
+NCARG_DATABASE=/usr/lib64/ncarg/database
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+WHATAMI=linux-rhel_7-x86_64
+LOADEDMODULES=
+PLATFORM=linux-rhel_7-x86_64
+DB2_HOME=/dbhome/db2cat/sqllib
+LM_LICENSE_FILE=
+NCARG_LIB=/usr/lib64/ncarg
+HISTCONTROL=ignoredups
+TEXINPUTS=
+SOFTENV_LOAD=/soft/environment/softenv-1.6.2/etc/softenv-load.sh
+NCARG_NCARG=/usr/share/ncarg
+SHLVL=3
+HOME=/home/USER
+IBM_DB_INCLUDE=/dbhome/db2cat/sqllib/include
+CONDA_ENV_PATH=/home/USER/.conda/envs/py36
+CONDA_PS1_BACKUP=(py36)[\u@\h \W]\$ 
+PYTHONPATH=/projects/DLHub/ryan/libsubmit/:
+LOGNAME=USER
+WINDOW=6
+CVS_RSH=ssh
+CLASSPATH=/dbhome/db2cat/sqllib/java/db2java.zip:/dbhome/db2cat/sqllib/java/sqlj.zip:/dbhome/db2cat/sqllib/function:/dbhome/db2cat/sqllib/java/db2jcc_license_cu.jar:/dbhome/db2cat/sqllib/tools/clpplus.jar:/dbhome/db2cat/sqllib/tools/jline-0.9.93.jar:/dbhome/db2cat/sqllib/java/db2jcc.jar:.
+TRACKDEPS_CMDS=cc1 cc1plus f951 clang clang-3.8 clang-3.9 clang-4.0 clang-5.0 clang-6.0 cpp as fatbinary ptxas cudafe cudafe cudafe++ bin2c nvlink cicc mcpcom fortcom ar ld.bfd ld.gold ld
+SSH_CONNECTION=207.229.176.209 48330 140.221.68.108 22
+MODULESHOME=/usr/share/Modules
+TRACKDEPS_LOG_PATH=/gpfs/mira-fs0/logs/trackdeps
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+CONDA_DEFAULT_ENV=funcx36
+ARCH=linux-rhel_7-x86_64
+XDG_RUNTIME_DIR=/run/user/32781
+DB2LIB=/dbhome/db2cat/sqllib/lib
+BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}
+LSB Version:	:core-4.1-amd64:core-4.1-noarch
+Distributor ID:	RedHatEnterpriseServer
+Description:	Red Hat Enterprise Linux Server release 7.6 (Maipo)
+Release:	7.6
+Codename:	Maipo
+Linux cooleylogin2 3.10.0-957.10.1.el7.x86_64 #1 SMP Thu Feb 7 07:12:53 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                12
+On-line CPU(s) list:   0-11
+Thread(s) per core:    1
+Core(s) per socket:    6
+Socket(s):             2
+NUMA node(s):          2
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 63
+Model name:            Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
+Stepping:              2
+CPU MHz:               1766.894
+CPU max MHz:           3200.0000
+CPU min MHz:           1200.0000
+BogoMIPS:              4788.91
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              15360K
+NUMA node0 CPU(s):     0-5
+NUMA node1 CPU(s):     6-11
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm epb intel_ppin ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc dtherm ida arat pln pts spec_ctrl intel_stibp flush_l1d
+MemTotal:       395970792 kB
+MemFree:        351587964 kB
+MemAvailable:   358453968 kB
+Buffers:          567024 kB
+Cached:          3678060 kB
+SwapCached:        39840 kB
+Active:         23736476 kB
+Inactive:        4472364 kB
+Active(anon):   21954244 kB
+Inactive(anon):  2485396 kB
+Active(file):    1782232 kB
+Inactive(file):  1986968 kB
+Unevictable:     4194304 kB
+Mlocked:         4194304 kB
+SwapTotal:       5242876 kB
+SwapFree:        5169404 kB
+Dirty:               744 kB
+Writeback:             0 kB
+AnonPages:      28134140 kB
+Mapped:          1827612 kB
+Shmem:            475948 kB
+Slab:            6462296 kB
+SReclaimable:    4238936 kB
+SUnreclaim:      2223360 kB
+KernelStack:       54352 kB
+PageTables:       254696 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    203228272 kB
+Committed_AS:   137442644 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:     2579764 kB
+VmallocChunk:   34155728428 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:  21200896 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:      789436 kB
+DirectMap2M:    38959104 kB
+DirectMap1G:    364904448 kB
+NAME              MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINT
+sda                 8:0    0 465.8G  0 disk  
+├─sda1              8:1    0   300M  0 part  
+│ └─md0             9:0    0   300M  0 raid1 /boot
+└─sda2              8:2    0 465.5G  0 part  
+  └─md1             9:1    0 465.4G  0 raid1 
+    ├─vg0-root    253:0    0    20G  0 lvm   /
+    ├─vg0-swap    253:1    0     5G  0 lvm   [SWAP]
+    ├─vg0-scratch 253:2    0   350G  0 lvm   /scratch
+    ├─vg0-tmp     253:3    0    20G  0 lvm   /tmp
+    ├─vg0-var     253:4    0    40G  0 lvm   /var
+    └─vg0-opt     253:5    0    20G  0 lvm   /opt
+sdb                 8:16   0 465.8G  0 disk  
+├─sdb1              8:17   0   300M  0 part  
+│ └─md0             9:0    0   300M  0 raid1 /boot
+└─sdb2              8:18   0 465.5G  0 part  
+  └─md1             9:1    0 465.4G  0 raid1 
+    ├─vg0-root    253:0    0    20G  0 lvm   /
+    ├─vg0-swap    253:1    0     5G  0 lvm   [SWAP]
+    ├─vg0-scratch 253:2    0   350G  0 lvm   /scratch
+    ├─vg0-tmp     253:3    0    20G  0 lvm   /tmp
+    ├─vg0-var     253:4    0    40G  0 lvm   /var
+    └─vg0-opt     253:5    0    20G  0 lvm   /opt
+loop0               7:0    0         1 loop  
+loop1               7:1    0     7G  1 loop  
+loop2               7:2    0         1 loop  
+[4:0:0:0]    disk    ATA      ST9500620NS      SN03  /dev/sda    500GB
+[5:0:0:0]    disk    ATA      ST9500620NS      SN03  /dev/sdb    500GB
+NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver. Make sure that the latest NVIDIA driver is installed and running.
+
+H/W path        Device     Class          Description
+=====================================================
+                           system         Computer
+/0                         bus            Motherboard
+/0/0                       memory         384GiB System memory
+/0/1                       processor      Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
+/0/6                       processor      Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
+/0/100                     bridge         Xeon E7 v3/Xeon E5 v3/Core i7 DMI2
+/0/100/1                   bridge         Xeon E7 v3/Xeon E5 v3/Core i7 PCI Express Root Port 1
+/0/100/2                   bridge         Xeon E7 v3/Xeon E5 v3/Core i7 PCI Express Root Port 2
+/0/100/2.2                 bridge         Xeon E7 v3/Xeon E5 v3/Core i7 PCI Express Root Port 2
+/0/100/2.2/0    eth0       network        Ethernet Controller 10-Gigabit X540-AT2
+/0/100/2.2/0.1  eth1       network        Ethernet Controller 10-Gigabit X540-AT2
+/0/100/3                   bridge         Xeon E7 v3/Xeon E5 v3/Core i7 PCI Express Root Port 3
+/0/100/4                   generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 0
+/0/100/4.1                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 1
+/0/100/4.2                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 2
+/0/100/4.3                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 3
+/0/100/4.4                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 4
+/0/100/4.5                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 5
+/0/100/4.6                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 6
+/0/100/4.7                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 7
+/0/100/5                   generic        Xeon E7 v3/Xeon E5 v3/Core i7 Address Map, VTd_Misc, System Management
+/0/100/5.1                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 Hot Plug
+/0/100/5.2                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 RAS, Control Status and Global Errors
+/0/100/5.4                 generic        Xeon E7 v3/Xeon E5 v3/Core i7 I/O APIC
+/0/100/11                  generic        C610/X99 series chipset SPSR
+/0/100/11.1                bus            C610/X99 series chipset MS SMBus 0
+/0/100/11.4                storage        C610/X99 series chipset sSATA Controller [AHCI mode]
+/0/100/14                  bus            C610/X99 series chipset USB xHCI Host Controller
+/0/100/16                  communication  C610/X99 series chipset MEI Controller #1
+/0/100/16.1                communication  C610/X99 series chipset MEI Controller #2
+/0/100/1a                  bus            C610/X99 series chipset USB Enhanced Host Controller #2
+/0/100/1c                  bridge         C610/X99 series chipset PCI Express Root Port #4
+/0/100/1c/0                display        MGA G200e [Pilot] ServerEngines (SEP1)
+/0/100/1d                  bus            C610/X99 series chipset USB Enhanced Host Controller #1
+/0/100/1f                  bridge         C610/X99 series chipset LPC Controller
+/0/100/1f.2                storage        C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+/0/100/1f.3                bus            C610/X99 series chipset SMBus Controller
+/0/7                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 QPI Link 0
+/0/8                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 QPI Link 0
+/0/9                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 QPI Link 0
+/0/a                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+/0/b                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+/0/c                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+/0/d                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/e                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/f                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/10                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/11                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/12                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/13                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Buffered Ring Agent
+/0/14                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Buffered Ring Agent
+/0/15                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+/0/16                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+/0/17                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+/0/18                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 PCIe Ring Interface
+/0/19                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 PCIe Ring Interface
+/0/1a                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+/0/1b                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+/0/1c                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+/0/1d                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Home Agent 0
+/0/1e                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Home Agent 0
+/0/1f                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+/0/20                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+/0/21                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+/0/22                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+/0/23                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+/0/24                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Channel 0/1 Broadcast
+/0/25                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Global Broadcast
+/0/26                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 Thermal Control
+/0/27                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 Thermal Control
+/0/28                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 ERROR Registers
+/0/29                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 ERROR Registers
+/0/2a                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+/0/2b                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+/0/2c                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 Thermal Control
+/0/2d                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 Thermal Control
+/0/2e                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 ERROR Registers
+/0/2f                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 ERROR Registers
+/0/30                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
+/0/31                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Channel 2/3 Broadcast
+/0/32                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Global Broadcast
+/0/33                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 0 Thermal Control
+/0/34                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/35                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/36                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/37                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/38                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/39                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/3a                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/3b                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/3c                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/3d                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 VCU
+/0/3e                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 VCU
+/0/2                       bridge         Xeon E7 v3/Xeon E5 v3/Core i7 PCI Express Root Port 2
+/0/2/0          ib1        network        MT27600 [Connect-IB]
+/0/3                       bridge         Xeon E7 v3/Xeon E5 v3/Core i7 PCI Express Root Port 3
+/0/3.2                     bridge         Xeon E7 v3/Xeon E5 v3/Core i7 PCI Express Root Port 3
+/0/3.2/0        eth2       network        MT27500 Family [ConnectX-3]
+/0/4                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 0
+/0/4.1                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 1
+/0/4.2                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 2
+/0/4.3                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 3
+/0/4.4                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 4
+/0/4.5                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 5
+/0/4.6                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 6
+/0/4.7                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 DMA Channel 7
+/0/5                       generic        Xeon E7 v3/Xeon E5 v3/Core i7 Address Map, VTd_Misc, System Management
+/0/5.1                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 Hot Plug
+/0/5.2                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 RAS, Control Status and Global Errors
+/0/5.4                     generic        Xeon E7 v3/Xeon E5 v3/Core i7 I/O APIC
+/0/3f                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 QPI Link 0
+/0/40                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 QPI Link 0
+/0/41                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 QPI Link 0
+/0/42                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+/0/43                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+/0/44                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 R3 QPI Link 0 & 1 Monitoring
+/0/45                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/46                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/47                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/48                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/49                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/4a                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Unicast Registers
+/0/4b                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Buffered Ring Agent
+/0/4c                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Buffered Ring Agent
+/0/4d                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+/0/4e                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+/0/4f                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 System Address Decoder & Broadcast Registers
+/0/50                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 PCIe Ring Interface
+/0/51                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 PCIe Ring Interface
+/0/52                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+/0/53                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+/0/54                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Scratchpad & Semaphore Registers
+/0/55                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Home Agent 0
+/0/56                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Home Agent 0
+/0/57                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+/0/58                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Target Address, Thermal & RAS Registers
+/0/59                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+/0/5a                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+/0/5b                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel Target Address Decoder
+/0/5c                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Channel 0/1 Broadcast
+/0/5d                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Global Broadcast
+/0/5e                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 Thermal Control
+/0/5f                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 Thermal Control
+/0/60                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 0 ERROR Registers
+/0/61                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 1 ERROR Registers
+/0/62                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+/0/63                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 0 & 1
+/0/64                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 Thermal Control
+/0/65                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 Thermal Control
+/0/66                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 2 ERROR Registers
+/0/67                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 0 Channel 3 ERROR Registers
+/0/68                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 1 Target Address, Thermal & RAS Registers
+/0/69                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Channel 2/3 Broadcast
+/0/6a                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO Global Broadcast
+/0/6b                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Integrated Memory Controller 1 Channel 0 Thermal Control
+/0/6c                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/6d                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/6e                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/6f                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 DDRIO (VMSE) 2 & 3
+/0/70                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/71                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/72                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/73                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/74                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 Power Control Unit
+/0/75                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 VCU
+/0/76                      generic        Xeon E7 v3/Xeon E5 v3/Core i7 VCU
+/0/77                      system         PnP device PNP0b00
+/0/78                      system         PnP device PNP0c02
+/0/79                      communication  PnP device PNP0501
+/0/7a                      communication  PnP device PNP0501
+/1              eth2.2200  network        Ethernet interface
+/2              eth2.2420  network        Ethernet interface
+/3              eth2.2330  network        Ethernet interface
+/4              ib0        network        interface

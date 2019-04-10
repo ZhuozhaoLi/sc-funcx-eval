@@ -1,0 +1,15 @@
+2019-04-08 16:22:51.783 parsl:485 Rank:0 [INFO]  Python version: 3.6.8 |Anaconda, Inc.| (default, Dec 30 2018, 01:22:34) 
+[GCC 7.3.0]
+2019-04-08 16:22:51.783 parsl:486 Rank:0 [INFO]  Debug logging: False
+2019-04-08 16:22:51.783 parsl:487 Rank:0 [INFO]  Log dir: /home/yadu/src/sc-funcx-eval/fault_tolerance/runinfo/037/htex_local
+2019-04-08 16:22:51.783 parsl:488 Rank:0 [INFO]  Manager ID: 063694a932a0
+2019-04-08 16:22:51.783 parsl:489 Rank:0 [INFO]  cores_per_worker: 1
+2019-04-08 16:22:51.783 parsl:490 Rank:0 [INFO]  task_url: tcp://127.0.0.1:54258
+2019-04-08 16:22:51.783 parsl:491 Rank:0 [INFO]  result_url: tcp://127.0.0.1:54322
+2019-04-08 16:22:51.783 parsl:492 Rank:0 [INFO]  max_workers: 4
+2019-04-08 16:22:51.783 parsl:493 Rank:0 [INFO]  poll_period: 1
+2019-04-08 16:22:51.783 parsl:89 Rank:0 [INFO]  Manager started
+2019-04-08 16:22:51.784 parsl:103 Rank:0 [INFO]  Manager connected
+2019-04-08 16:22:51.784 parsl:111 Rank:0 [INFO]  Manager will spawn 4 workers
+2019-04-08 16:22:51.793 parsl:155 Rank:0 [INFO]  [TASK PULL THREAD] starting
+2019-04-08 16:22:51.794 parsl:290 Rank:0 [INFO]  Loop start
