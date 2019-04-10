@@ -1,0 +1,9 @@
+Copying image to /tmp directory
+Copy done, checking what is inside the /tmp
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 02:50 /tmp/sing-run.simg
+Application 12664564 resources: utime ~0s, stime ~3s, Rss ~6240, inblocks ~1710, outblocks ~0
+Starting Cobalt job script
+----Cobalt Nodefile: -----
+--------------------------
+Application 12664569 exit signals: Terminated
+Application 12664569 resources: utime ~0s, stime ~1s, Rss ~6240, inblocks ~1336, outblocks ~0
