@@ -14,8 +14,8 @@ PE_PETSC_DEFAULT_GENCOMPILERS_CRAY_sandybridge=8.6
 PE_PETSC_DEFAULT_GENCOMPS_CRAY_skylake=86
 PE_TPSL_DEFAULT_GENCOMPS_INTEL_x86_skylake=160
 PE_CXX_PKGCONFIG_LIBS=mpichcxx
-XDG_SESSION_ID=1271
-HOSTNAME=thetalogin5
+XDG_SESSION_ID=1252
+HOSTNAME=thetalogin4
 IBM_DB_LIB=/dbhome/db2cat/sqllib/lib
 CRAY_UDREG_INCLUDE_OPTS=-I/opt/cray/udreg/2.3.2-6.0.6.0_15.18__g5196236.ari/include
 PE_FFTW_DEFAULT_TARGET_mic_knl=mic_knl
@@ -38,7 +38,7 @@ PE_SMA_DEFAULT_COMPFLAG=
 PE_TPSL_64_DEFAULT_GENCOMPILERS_CRAY_x86_64=8.6
 SHELL=/bin/bash
 TERM=xterm
-HOST=thetalogin5
+HOST=thetalogin4
 PE_TPSL_DEFAULT_GENCOMPS_CRAY_x86_skylake=86
 PKGCONFIG_ENABLED=1
 HISTSIZE=1000
@@ -46,7 +46,7 @@ PROFILEREAD=true
 INTEL_MINOR_VERSION=0.128
 PE_PETSC_DEFAULT_GENCOMPS_CRAY_sandybridge=86
 PE_TPSL_DEFAULT_GENCOMPILERS_GNU_x86_skylake=8.2 7.1 6.1
-SSH_CLIENT=165.124.144.162 35143 22
+SSH_CLIENT=165.124.144.162 58697 22
 CRAYPE_DIR=/opt/cray/pe/craype/2.5.15
 CRAY_UGNI_POST_LINK_OPTS=-L/opt/cray/ugni/6.0.14-6.0.6.0_18.12__g777707d.ari/lib64
 CRAY_XPMEM_POST_LINK_OPTS=-L/opt/cray/xpmem/2.2.14-6.0.6.1_5.14__g34333c9.ari/lib64
@@ -89,7 +89,7 @@ PE_TPSL_64_DEFAULT_GENCOMPS_CRAY_haswell=86
 PE_TPSL_64_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/pe/tpsl/18.06.1/@PRGENV@64/@PE_TPSL_64_DEFAULT_GENCOMPS@/@PE_TPSL_64_DEFAULT_TARGET@/lib/pkgconfig
 PE_CRAY_DEFAULT_FIXED_PKGCONFIG_PATH=/opt/cray/pe/parallel-netcdf/1.8.1.3/CRAY/8.6/lib/pkgconfig:/opt/cray/pe/netcdf-hdf5parallel/4.6.1.3/CRAY/8.6/lib/pkgconfig:/opt/cray/pe/netcdf/4.6.1.3/CRAY/8.6/lib/pkgconfig:/opt/cray/pe/hdf5-parallel/1.10.2.0/CRAY/8.6/lib/pkgconfig:/opt/cray/pe/hdf5/1.10.2.0/CRAY/8.6/lib/pkgconfig:/opt/cray/pe/ga/5.3.0.8/CRAY/8.6/lib/pkgconfig
 PE_TRILINOS_DEFAULT_GENCOMPILERS_CRAY_x86_64=8.7
-SSH_TTY=/dev/pts/10
+SSH_TTY=/dev/pts/9
 MIC_LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2018.0.128/linux/mpi/mic/lib:/opt/intel/compilers_and_libraries_2018.0.128/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2018.0.128/linux/ipp/lib/mic:/opt/intel/compilers_and_libraries_2018.0.128/linux/compiler/lib/mic:/opt/intel/compilers_and_libraries_2018.0.128/linux/mkl/lib/mic:/opt/intel/compilers_and_libraries_2018.0.128/linux/tbb/lib/mic
 PE_LIBSCI_DEFAULT_OMP_REQUIRES_openmp=_mp
 PE_PETSC_DEFAULT_GENCOMPS_CRAY_x86_64=86
@@ -291,7 +291,7 @@ PE_TPSL_DEFAULT_GENCOMPILERS_INTEL_x86_skylake=16.0
 PE_TPSL_DEFAULT_VOLATILE_PKGCONFIG_PATH=/opt/cray/pe/tpsl/18.06.1/@PRGENV@/@PE_TPSL_DEFAULT_GENCOMPS@/@PE_TPSL_DEFAULT_TARGET@/lib/pkgconfig
 CRAY_MPICH2_VER=7.7.3
 PE_MPICH_PKGCONFIG_LIBS=mpich
-GPG_TTY=/dev/pts/10
+GPG_TTY=/dev/pts/9
 INTEL_PYTHONHOME=/opt/intel/debugger_2017/python/intel64/
 PE_GA_DEFAULT_GENCOMPILERS_GNU=5.3 4.9
 PE_LIBSCI_VOLATILE_PKGCONFIG_PATH=/opt/cray/pe/libsci/18.07.1/@PRGENV@/@PE_LIBSCI_GENCOMPS@/@PE_LIBSCI_TARGET@/lib/pkgconfig
@@ -350,7 +350,7 @@ PE_LIBSCI_OMP_REQUIRES=
 PE_MPICH_DEFAULT_GENCOMPILERS_CRAY=8.6
 PE_TRILINOS_DEFAULT_GENCOMPS_GNU_x86_64=82 73 51 49
 PE_MPICH_GENCOMPS_CRAY=86
-SSH_CONNECTION=165.124.144.162 35143 140.221.69.24 22
+SSH_CONNECTION=165.124.144.162 58697 140.221.69.28 22
 CLASSPATH=/opt/intel/compilers_and_libraries_2018.0.128/linux/daal/lib/daal.jar:/dbhome/db2cat/sqllib/java/db2java.zip:/dbhome/db2cat/sqllib/java/sqlj.zip:/dbhome/db2cat/sqllib/function:/dbhome/db2cat/sqllib/java/db2jcc_license_cu.jar:/dbhome/db2cat/sqllib/tools/clpplus.jar:/dbhome/db2cat/sqllib/tools/jline-0.9.93.jar:/dbhome/db2cat/sqllib/java/db2jcc.jar:.
 XDG_DATA_DIRS=/usr/share
 TOOLMODULES=apprentice:apprentice2:atp:chapel:cray-lgdb:cray-snplauncher:craypat:craypkg-gen:ddt:gdb:iobuf:papi:perftools:perftools-lite:stat:totalview:xt-craypat:xt-lgdb:xt-papi:xt-totalview
@@ -425,12 +425,15 @@ PE_PETSC_DEFAULT_GENCOMPS_INTEL_x86_64=160
 intel_already_loaded=0
 BASH_FUNC_module%%=() {  eval `/opt/cray/pe/modules/3.2.11.1/bin/modulecmd bash $*`
 }
++ lsb_release -a
 LSB Version:	n/a
 Distributor ID:	SUSE
 Description:	SUSE Linux Enterprise Server 12 SP3
 Release:	12.3
 Codename:	n/a
-Linux thetalogin5 4.4.162-94.72-default #1 SMP Mon Nov 12 18:57:45 UTC 2018 (9de753f) x86_64 x86_64 x86_64 GNU/Linux
++ uname -a
+Linux thetalogin4 4.4.162-94.72-default #1 SMP Mon Nov 12 18:57:45 UTC 2018 (9de753f) x86_64 x86_64 x86_64 GNU/Linux
++ lscpu
 Architecture:          x86_64
 CPU op-mode(s):        32-bit, 64-bit
 Byte Order:            Little Endian
@@ -445,10 +448,10 @@ CPU family:            6
 Model:                 63
 Model name:            Intel(R) Xeon(R) CPU E5-2698 v3 @ 2.30GHz
 Stepping:              2
-CPU MHz:               1440.184
+CPU MHz:               1200.048
 CPU max MHz:           3600.0000
 CPU min MHz:           1200.0000
-BogoMIPS:              4599.62
+BogoMIPS:              4599.92
 Virtualization:        VT-x
 L1d cache:             32K
 L1i cache:             32K
@@ -457,56 +460,60 @@ L3 cache:              40960K
 NUMA node0 CPU(s):     0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30
 NUMA node1 CPU(s):     1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31
 Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm ida arat epb invpcid_single pln pts dtherm kaiser tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm xsaveopt cqm_llc cqm_occup_llc
-MemTotal:       263703448 kB
-MemFree:        196429556 kB
-MemAvailable:   206446180 kB
-Buffers:         1417732 kB
-Cached:         25810380 kB
++ cat /proc/meminfo
+MemTotal:       263704444 kB
+MemFree:        232402052 kB
+MemAvailable:   245341600 kB
+Buffers:         1734240 kB
+Cached:         12545520 kB
 SwapCached:            0 kB
-Active:         39297232 kB
-Inactive:       10240680 kB
-Active(anon):   31660192 kB
-Inactive(anon):  7199752 kB
-Active(file):    7637040 kB
-Inactive(file):  3040928 kB
+Active:          9517572 kB
+Inactive:        5459896 kB
+Active(anon):    1029540 kB
+Inactive(anon):   323564 kB
+Active(file):    8488032 kB
+Inactive(file):  5136332 kB
 Unevictable:     8388688 kB
 Mlocked:         8388688 kB
 SwapTotal:      134217724 kB
 SwapFree:       134217724 kB
-Dirty:                48 kB
+Dirty:                20 kB
 Writeback:             0 kB
-AnonPages:      30698576 kB
-Mapped:           824076 kB
-Shmem:          16550148 kB
-Slab:            6766884 kB
-SReclaimable:    1187332 kB
-SUnreclaim:      5579552 kB
-KernelStack:       33536 kB
-PageTables:       105668 kB
+AnonPages:       9086444 kB
+Mapped:           643848 kB
+Shmem:            655428 kB
+Slab:            5429968 kB
+SReclaimable:    1163860 kB
+SUnreclaim:      4266108 kB
+KernelStack:       24736 kB
+PageTables:        47416 kB
 NFS_Unstable:          0 kB
 Bounce:                0 kB
 WritebackTmp:          0 kB
-CommitLimit:    266069448 kB
-Committed_AS:   61667984 kB
+CommitLimit:    266069944 kB
+Committed_AS:   14647800 kB
 VmallocTotal:   34359738367 kB
 VmallocUsed:           0 kB
 VmallocChunk:          0 kB
 HardwareCorrupted:     0 kB
-AnonHugePages:  28252160 kB
+AnonHugePages:   8425472 kB
 HugePages_Total:       0
 HugePages_Free:        0
 HugePages_Rsvd:        0
 HugePages_Surp:        0
 Hugepagesize:       2048 kB
-DirectMap4k:     1977044 kB
-DirectMap2M:    167665664 kB
-DirectMap1G:    100663296 kB
+DirectMap4k:     1849016 kB
+DirectMap2M:    214976512 kB
+DirectMap1G:    53477376 kB
++ inxi -F -c0
+./theta_eval.sh: line 14: inxi: command not found
++ lsblk -a
 NAME      MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
 loop0       7:0    0     3G  0 loop 
-loop1       7:1    0  50.8G  0 loop /var/opt/cray/imps-image-binding/PE/squash_mounts/squashfs_eg46zO_mount_point
-loop2       7:2    0   1.6G  0 loop /var/opt/cray/imps-image-binding/diags/squash_mounts/squashfs_Z922jQ_mount_point
+loop1       7:1    0  50.8G  0 loop /var/opt/cray/imps-image-binding/PE/squash_mounts/squashfs_7bU2ED_mount_point
+loop2       7:2    0   1.6G  0 loop /var/opt/cray/imps-image-binding/diags/squash_mounts/squashfs_Rf8Ba6_mount_point
 loop3       7:3    0         1 loop 
-loop4       7:4    0         0 loop 
+loop4       7:4    0         1 loop 
 loop5       7:5    0         0 loop 
 loop6       7:6    0         0 loop 
 loop7       7:7    0         0 loop 
@@ -522,6 +529,42 @@ sdb         8:16   0 417.3G  0 disk
 sr0        11:0    1  1024M  0 rom  
 mira-home 253:150  0         0 disk /gpfs/mira-home
 theta-fs1 253:151  0         0 disk /gpfs/theta-fs1
++ lsscsi -s
 [0:2:0:0]    disk    DELL     PERC H330 Mini   4.25  /dev/sda    751GB
 [0:2:1:0]    disk    DELL     PERC H330 Mini   4.25  /dev/sdb    448GB
 [10:0:0:0]   cd/dvd  PLDS     DVD-ROM DU-8D5LH FD51  /dev/sr0        -
++ module list
+++ /opt/cray/pe/modules/3.2.11.1/bin/modulecmd bash list
+Currently Loaded Modulefiles:
+  1) modules/3.2.11.1
+  2) intel/18.0.0.128
+  3) craype-network-aries
+  4) craype/2.5.15
+  5) cray-libsci/18.07.1
+  6) udreg/2.3.2-6.0.6.0_15.18__g5196236.ari
+  7) ugni/6.0.14-6.0.6.0_18.12__g777707d.ari
+  8) pmi/5.0.14
+  9) dmapp/7.1.1-6.0.6.0_51.37__g5a674e0.ari
+ 10) gni-headers/5.0.12-6.0.6.0_3.26__g527b6e1.ari
+ 11) xpmem/2.2.14-6.0.6.1_5.14__g34333c9.ari
+ 12) job/2.2.3-6.0.6.0_9.47__g6c4e934.ari
+ 13) dvs/2.7_2.2.100-6.0.6.1_12.6__g542256c
+ 14) alps/6.6.1-6.0.6.1_4.1__ga6396bb.ari
+ 15) rca/2.2.18-6.0.6.0_19.14__g2aa4f39.ari
+ 16) atp/2.1.3
+ 17) perftools-base/7.0.4
+ 18) PrgEnv-intel/6.0.4
+ 19) craype-mic-knl
+ 20) cray-mpich/7.7.3
+ 21) nompirun/nompirun
+ 22) darshan/3.1.5
+ 23) trackdeps
+ 24) xalt
++ eval
++ nvidia-smi
+./theta_eval.sh: line 18: nvidia-smi: command not found
++ lshw -short -quiet -sanitize
++ cat
+./theta_eval.sh: line 19: lshw: command not found
++ lspci
+./theta_eval.sh: line 19: lspci: command not found
