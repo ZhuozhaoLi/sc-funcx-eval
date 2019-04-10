@@ -1,0 +1,501 @@
+(funcx_5) ubuntu@ip-172-31-6-155:~$ sudo ./yadu_run.sh 
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.842s
+user	0m0.023s
+sys	0m0.015s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.793s
+user	0m0.024s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.827s
+user	0m0.013s
+sys	0m0.025s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.796s
+user	0m0.025s
+sys	0m0.013s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.824s
+user	0m0.011s
+sys	0m0.026s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.839s
+user	0m0.022s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.767s
+user	0m0.035s
+sys	0m0.005s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.800s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.820s
+user	0m0.030s
+sys	0m0.010s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.823s
+user	0m0.014s
+sys	0m0.024s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.881s
+user	0m0.016s
+sys	0m0.023s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.821s
+user	0m0.030s
+sys	0m0.011s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.822s
+user	0m0.013s
+sys	0m0.026s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.784s
+user	0m0.028s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.826s
+user	0m0.017s
+sys	0m0.024s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.806s
+user	0m0.022s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.758s
+user	0m0.023s
+sys	0m0.015s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.830s
+user	0m0.024s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.833s
+user	0m0.030s
+sys	0m0.011s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.832s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.784s
+user	0m0.024s
+sys	0m0.015s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.768s
+user	0m0.027s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.790s
+user	0m0.017s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.800s
+user	0m0.023s
+sys	0m0.017s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.781s
+user	0m0.019s
+sys	0m0.020s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.775s
+user	0m0.024s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.789s
+user	0m0.022s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.808s
+user	0m0.021s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.779s
+user	0m0.024s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.761s
+user	0m0.023s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.784s
+user	0m0.020s
+sys	0m0.020s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.756s
+user	0m0.024s
+sys	0m0.015s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.795s
+user	0m0.021s
+sys	0m0.017s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.809s
+user	0m0.023s
+sys	0m0.016s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.786s
+user	0m0.024s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.750s
+user	0m0.016s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.780s
+user	0m0.023s
+sys	0m0.016s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.780s
+user	0m0.020s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.774s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.805s
+user	0m0.018s
+sys	0m0.022s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.792s
+user	0m0.005s
+sys	0m0.034s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.795s
+user	0m0.026s
+sys	0m0.013s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.792s
+user	0m0.027s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.783s
+user	0m0.025s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.795s
+user	0m0.027s
+sys	0m0.010s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.781s
+user	0m0.022s
+sys	0m0.017s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.789s
+user	0m0.026s
+sys	0m0.013s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.824s
+user	0m0.022s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.802s
+user	0m0.020s
+sys	0m0.020s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.802s
+user	0m0.020s
+sys	0m0.020s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.769s
+user	0m0.026s
+sys	0m0.017s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.736s
+user	0m0.016s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.783s
+user	0m0.025s
+sys	0m0.015s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.757s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.801s
+user	0m0.021s
+sys	0m0.017s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.816s
+user	0m0.028s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.768s
+user	0m0.034s
+sys	0m0.005s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.773s
+user	0m0.015s
+sys	0m0.022s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.767s
+user	0m0.026s
+sys	0m0.013s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.789s
+user	0m0.025s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.764s
+user	0m0.021s
+sys	0m0.017s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.788s
+user	0m0.024s
+sys	0m0.016s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.813s
+user	0m0.020s
+sys	0m0.020s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.776s
+user	0m0.021s
+sys	0m0.017s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.791s
+user	0m0.024s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.829s
+user	0m0.018s
+sys	0m0.022s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.779s
+user	0m0.027s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.773s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.775s
+user	0m0.023s
+sys	0m0.016s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.824s
+user	0m0.016s
+sys	0m0.024s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.811s
+user	0m0.029s
+sys	0m0.010s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.795s
+user	0m0.027s
+sys	0m0.014s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.768s
+user	0m0.029s
+sys	0m0.010s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.759s
+user	0m0.017s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.804s
+user	0m0.027s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.777s
+user	0m0.023s
+sys	0m0.016s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.819s
+user	0m0.022s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.788s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.797s
+user	0m0.016s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.780s
+user	0m0.023s
+sys	0m0.015s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.791s
+user	0m0.018s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.783s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.773s
+user	0m0.029s
+sys	0m0.009s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.785s
+user	0m0.024s
+sys	0m0.016s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.789s
+user	0m0.031s
+sys	0m0.011s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.820s
+user	0m0.023s
+sys	0m0.016s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.811s
+user	0m0.026s
+sys	0m0.013s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.794s
+user	0m0.021s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.783s
+user	0m0.023s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.759s
+user	0m0.028s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.815s
+user	0m0.028s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.806s
+user	0m0.023s
+sys	0m0.018s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.776s
+user	0m0.029s
+sys	0m0.010s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.790s
+user	0m0.014s
+sys	0m0.029s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.773s
+user	0m0.030s
+sys	0m0.013s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.753s
+user	0m0.018s
+sys	0m0.021s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.828s
+user	0m0.027s
+sys	0m0.012s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.736s
+user	0m0.025s
+sys	0m0.013s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.765s
+user	0m0.019s
+sys	0m0.019s
+0.7.2 /usr/local/lib/python3.6/dist-packages/parsl/__init__.py
+
+real	0m1.795s
+user	0m0.027s
+sys	0m0.012s
