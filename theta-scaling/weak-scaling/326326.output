@@ -1,0 +1,30 @@
+Copying image to /tmp directory
+Copying image to /tmp directory
+Copying image to /tmp directory
+Copying image to /tmp directory
+Copying image to /tmp directory
+Copying image to /tmp directory
+Copying image to /tmp directory
+Copying image to /tmp directory
+Copy done, checking what is inside the /tmp
+Copy done, checking what is inside the /tmp
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+Copy done, checking what is inside the /tmp
+Copy done, checking what is inside the /tmp
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+Copy done, checking what is inside the /tmp
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+Copy done, checking what is inside the /tmp
+Copy done, checking what is inside the /tmp
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+Copy done, checking what is inside the /tmp
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+-rwxr-xr-x 1 zzli users 985661471 Mar 29 03:47 /tmp/sing-run.simg
+Application 12667877 resources: utime ~0s, stime ~24s, Rss ~6256, inblocks ~13438, outblocks ~0
+Starting Cobalt job script
+----Cobalt Nodefile: -----
+--------------------------
+Application 12667920 exit signals: Terminated
+Application 12667920 resources: utime ~0s, stime ~8s, Rss ~6256, inblocks ~10546, outblocks ~0

@@ -1,0 +1,29 @@
+Jobid: 327112
+qsub -n 1 -q debug-flat-quad -t 60 -A ExM /home/zzli/funcx-testing-code/funcx/theta/weak-scaling/runinfo/025/submit_scripts/parsl.parsl.auto.1554053528.9204082.submit
+Sun Mar 31 17:32:18 2019 +0000 (UTC) submitted with cwd set to: /gpfs/mira-home/zzli/funcx-testing-code/funcx/theta/weak-scaling
+2019-03-31 17:33:07,949 INFO: Starting Resource_Prologue
+2019-03-31 17:33:07,951 DEBUG: no enabling attribute found
+2019-03-31 17:33:07,953 INFO: Resource_Prologue finished with exit code 0
+Sun Mar 31 17:33:31 2019 +0000 (UTC) 
+Sun Mar 31 17:33:31 2019 +0000 (UTC) Command: '/home/zzli/funcx-testing-code/funcx/theta/weak-scaling/runinfo/025/submit_scripts/parsl.parsl.auto.1554053528.9204082.submit'
+Sun Mar 31 17:33:31 2019 +0000 (UTC) 
+Sun Mar 31 17:33:31 2019 +0000 (UTC) Environment:
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_PARTCORES=64
+Sun Mar 31 17:33:31 2019 +0000 (UTC) SHELL=/bin/bash
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_PROJECT=ExM
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_PARTNAME=0
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_JOBID=327112
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_STARTTIME=1554053574
+Sun Mar 31 17:33:31 2019 +0000 (UTC) LOGNAME=zzli
+Sun Mar 31 17:33:31 2019 +0000 (UTC) USER=zzli
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_ENDTIME=1554057174
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_PARTSIZE=1
+Sun Mar 31 17:33:31 2019 +0000 (UTC) HOME=/home/zzli
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_JOBSIZE=1
+Sun Mar 31 17:33:31 2019 +0000 (UTC) COBALT_QUEUE=debug-flat-quad
+Sun Mar 31 17:33:31 2019 +0000 (UTC) 
+Sun Mar 31 17:33:31 2019 +0000 (UTC) Info: stdin received from /dev/null
+Sun Mar 31 17:33:31 2019 +0000 (UTC) Info: stdout sent to /gpfs/mira-home/zzli/funcx-testing-code/funcx/theta/weak-scaling/327112.output
+Sun Mar 31 17:33:31 2019 +0000 (UTC) Info: stderr sent to /gpfs/mira-home/zzli/funcx-testing-code/funcx/theta/weak-scaling/327112.error
+Sun Mar 31 17:33:31 2019 +0000 (UTC) 
+Sun Mar 31 17:35:37 2019 +0000 (UTC) Info: user delete requested with signal SIGTERM by user zzli
