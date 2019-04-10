@@ -1,0 +1,29 @@
+Jobid: 326326
+qsub -n 8 -q debug-flat-quad -t 60 -A CSC249ADCD01 /home/zzli/funcx-testing-code/funcx/theta/weak-scaling/runinfo/007/submit_scripts/parsl.parsl.auto.1553828936.459695.submit
+Fri Mar 29 03:09:09 2019 +0000 (UTC) submitted with cwd set to: /gpfs/mira-home/zzli/funcx-testing-code/funcx/theta/weak-scaling
+2019-03-29 03:46:56,784 INFO: Starting Resource_Prologue
+2019-03-29 03:46:56,787 DEBUG: no enabling attribute found
+2019-03-29 03:46:56,787 INFO: Resource_Prologue finished with exit code 0
+Fri Mar 29 03:47:19 2019 +0000 (UTC) 
+Fri Mar 29 03:47:19 2019 +0000 (UTC) Command: '/home/zzli/funcx-testing-code/funcx/theta/weak-scaling/runinfo/007/submit_scripts/parsl.parsl.auto.1553828936.459695.submit'
+Fri Mar 29 03:47:19 2019 +0000 (UTC) 
+Fri Mar 29 03:47:19 2019 +0000 (UTC) Environment:
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_PARTCORES=64
+Fri Mar 29 03:47:19 2019 +0000 (UTC) SHELL=/bin/bash
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_PROJECT=CSC249ADCD01
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_PARTNAME=0-4,6,10-11
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_JOBID=326326
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_STARTTIME=1553831200
+Fri Mar 29 03:47:19 2019 +0000 (UTC) LOGNAME=zzli
+Fri Mar 29 03:47:19 2019 +0000 (UTC) USER=zzli
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_ENDTIME=1553834800
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_PARTSIZE=8
+Fri Mar 29 03:47:19 2019 +0000 (UTC) HOME=/home/zzli
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_JOBSIZE=8
+Fri Mar 29 03:47:19 2019 +0000 (UTC) COBALT_QUEUE=debug-flat-quad
+Fri Mar 29 03:47:19 2019 +0000 (UTC) 
+Fri Mar 29 03:47:19 2019 +0000 (UTC) Info: stdin received from /dev/null
+Fri Mar 29 03:47:19 2019 +0000 (UTC) Info: stdout sent to /gpfs/mira-home/zzli/funcx-testing-code/funcx/theta/weak-scaling/326326.output
+Fri Mar 29 03:47:19 2019 +0000 (UTC) Info: stderr sent to /gpfs/mira-home/zzli/funcx-testing-code/funcx/theta/weak-scaling/326326.error
+Fri Mar 29 03:47:19 2019 +0000 (UTC) 
+Fri Mar 29 03:49:32 2019 +0000 (UTC) Info: user delete requested with signal SIGTERM by user zzli
