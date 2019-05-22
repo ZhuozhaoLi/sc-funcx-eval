@@ -48,7 +48,8 @@ Your endpoint will now be registered with the funcX service and will periodicall
 3. Open a python terminate and import the funcX client: 
 
 ```$ python3
->>> from funcx_sdk.client import FuncXClient```
+>>> from funcx_sdk.client import FuncXClient
+```
 
 4. Instantiate the client:
 
