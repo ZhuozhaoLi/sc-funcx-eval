@@ -47,8 +47,8 @@ Your endpoint will now be registered with the funcX service and will periodicall
 
 3. Open a python terminate and import the funcX client: 
 
-`$ python3`
-`>>> from funcx_sdk.client import FuncXClient`
+```$ python3
+>>> from funcx_sdk.client import FuncXClient```
 
 4. Instantiate the client:
 
@@ -58,12 +58,12 @@ Your endpoint will now be registered with the funcX service and will periodicall
 
 6. Define a test function:
 
-`>>> func = """`
-`def test_add(event):`
-`    nums = event["data"]`
-`    sum_val = sum(nums)`
-`    return sum_val`
-`"""`
+```>>> func = """
+def test_add(event):
+    nums = event["data"]
+    sum_val = sum(nums)
+    return sum_val
+"""```
 
 7. Publish the function to the service:
 
@@ -71,9 +71,9 @@ Your endpoint will now be registered with the funcX service and will periodicall
 
 8. Run the function:
 
-`>>> payload = [1,2,3,11]`
-`>>> res = fxc.run(payload, "user#laptop", "add_func")`
-`>>> print(res)`
+```>>> payload = [1,2,3,11]
+>>> res = fxc.run(payload, "user#laptop", "add_func")
+>>> print(res)```
 
 
 ## Latency
