@@ -157,18 +157,18 @@ def insert_data(tot_time, job_type):
 if __name__ == "__main__":
 
     # AWS Lambda
-    print("Running AWS Lambda Tests... \n")
-    lambda_times = lambda_test(N)
-    print(lambda_times)
-    print(statistics.mean(lambda_times))
+    #print("Running AWS Lambda Tests... \n")
+    #lambda_times = lambda_test(N)
+    #print(lambda_times)
+    #print(statistics.mean(lambda_times))
 
     # Google Cloud Functions
-    print("Running Google Cloud Function Tests... \n")
+    #print("Running Google Cloud Function Tests... \n")
 
-    google_times = google_test(N)
-    print(google_times)
-    print(statistics.mean(google_times))
-    print(statistics.mean(google_times))
+    #google_times = google_test(N)
+    #print(google_times)
+    #print(statistics.mean(google_times))
+    #print(statistics.mean(google_times))
 
     # MS Azure Functions
     print("Running Microsoft Azure Function Tests... \n")
@@ -177,8 +177,8 @@ if __name__ == "__main__":
     print(statistics.mean(azure_times))
 
     # FuncX Functions 
-    print("Running FuncX Tests \n")
-    funcx_times = funcx_test(N)
-    print(funcx_times)
-    print(statistics.mean(funcx_times))
+    #print("Running FuncX Tests \n")
+    #funcx_times = funcx_test(N)
+    #print(funcx_times)
+    #print(statistics.mean(funcx_times))
 
