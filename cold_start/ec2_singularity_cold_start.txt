@@ -1,0 +1,400 @@
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.311 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.298 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.289 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.283 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.310 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.288 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.307 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.254 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.283 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.282 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.279 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.308 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.297 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.299 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.289 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.302 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.314 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.294 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.327 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.284 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.308 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.280 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.295 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.302 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.292 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.315 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.311 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.312 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.283 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.291 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.329 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.304 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.327 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.333 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.305 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.280 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.271 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.286 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.274 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.267 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.291 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.290 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.260 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.278 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.310 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.293 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.300 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.300 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.317 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.291 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.295 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.295 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.268 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.268 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.290 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.294 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.294 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.314 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.286 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.294 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.286 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.279 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.313 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.279 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.301 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.271 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.300 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.269 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.299 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.306 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.312 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.293 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.307 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.246 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.267 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.277 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.288 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.282 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.273 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.275 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.290 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.300 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.321 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.281 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.307 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.276 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.307 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.297 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.292 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.318 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.274 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.281 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.297 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.263 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.294 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.267 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.307 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.253 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.295 s
+Priming ....
+Launching tasks: 1
+Primer task done:  2
+Cold start time 1 tasks:    2.320 s

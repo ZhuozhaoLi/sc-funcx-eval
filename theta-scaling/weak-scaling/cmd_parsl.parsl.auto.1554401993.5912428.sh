@@ -1,1 +1,0 @@
-process_worker_pool.py  --max_workers=64 -c 4 --poll 10 --task_url=tcp://thetalogin4:54120 --result_url=tcp://thetalogin4:54688 --logdir=/home/zzli/funcx-testing-code/funcx/theta/weak-scaling/runinfo/029/theta_funcx --hb_period=60 --hb_threshold=600 --mode=singularity_reuse --container_image=/tmp/sing-run.simg 
