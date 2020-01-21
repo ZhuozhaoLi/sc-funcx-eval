@@ -5,9 +5,9 @@ import requests
 import sqlite3
 
 
-N = 2000
+N = 20
 
-db_file = "lambda_funcx3.db"
+db_file = "hpdc.db"
 
 # conn = create_connection(db_file)
 
@@ -23,17 +23,19 @@ def lambda_test(num_runs):
     client = boto3.client('lambda')
 
     print("Priming...")
+
+    ta = time.time()
     invoke_response = client.invoke(
         FunctionName="tylerfunc2",
         InvocationType="RequestResponse"
     )
-
+    tb = time.time() 
+    print(f"Lambda old start time: {tb-ta}")
     print("Priming complete! Running now...")
 
     times = []
     for i in range(1, num_runs):
 
-        # time.sleep(.5)
         time0 = time.time()
 
         invoke_response = client.invoke(
@@ -69,11 +71,14 @@ def google_test(num_runs):
 
 
     print("Priming...")
+    ta = time.time()
     data = {"name":"Keyboard Cat"}
     r = requests.post("https://us-east1-noble-cubist-236315.cloudfunctions.net/function-2", data=data)
+    tb = time.time()
 
     # r = requests.post("https://us-central1-noble-cubist-236315.cloudfunctions.net/function-1", data=data)
-    print(r.text)
+    # print(r.text)
+    print(f"Google cold start time: {tb-ta}")
     print("Priming completed! Running now! ")
 
     times = []
@@ -96,10 +101,13 @@ def azure_test(num_runs):
 
 
     print("Priming...")
+    ta = time.time()
     url = "https://tylerfuncxapp1.azurewebsites.net/api/HttpTrigger?code=6AAItaCsm2wPwGxqnqnYbD3MnOM8wF2i1QK1Y31gMkbAGF6XLLaU5Q=="
     payload = {'name': 'world'}
     x = requests.post(url, json=payload)
-    print(x.text)
+    tb = time.time()
+    # print(x.text)
+    print(f"Microsoft cold start time {tb-ta}")
 
     times = []
     for i in range(1, num_runs):
@@ -157,18 +165,18 @@ def insert_data(tot_time, job_type):
 if __name__ == "__main__":
 
     # AWS Lambda
-    #print("Running AWS Lambda Tests... \n")
-    #lambda_times = lambda_test(N)
-    #print(lambda_times)
-    #print(statistics.mean(lambda_times))
+    print("Running AWS Lambda Tests... \n")
+    lambda_times = lambda_test(N)
+    print(lambda_times)
+    print(statistics.mean(lambda_times))
 
     # Google Cloud Functions
     #print("Running Google Cloud Function Tests... \n")
 
-    #google_times = google_test(N)
-    #print(google_times)
-    #print(statistics.mean(google_times))
-    #print(statistics.mean(google_times))
+    google_times = google_test(N)
+    print(google_times)
+    print(statistics.mean(google_times))
+    # print(statistics.mean(google_times))
 
     # MS Azure Functions
     print("Running Microsoft Azure Function Tests... \n")
